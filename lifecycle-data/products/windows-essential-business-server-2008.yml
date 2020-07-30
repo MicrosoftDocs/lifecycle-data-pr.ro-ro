@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Essential Business Server 2008
+  description: Windows Essential Business Server 2008 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ec7238cb3b1948788e38b0cbc3a9a38217554d5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834509"
+name: Windows Essential Business Server 2008
+summary: >
+  Windows Essential Business Server 2008 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru se aplică următoarelor ediții: Standard
+
+
+  > [!IMPORTANT]
+
+  > Data de asistență pentru acest pachet de produse este determinată de ciclurile de viață ale produsului component individual. Vă rugăm să revizuiți ciclul de viață al fiecărui produs component pentru a determina durata asistenței.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/12/2008
+releases:
+- version: Original Release
+  startDate: 12/12/2008
+  endDate: 02/13/2020
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://aka.ms/AA1ovn4)\n* [Informații despre produs](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Standard"

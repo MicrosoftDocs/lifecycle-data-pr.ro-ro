@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834025"
+name: Microsoft Visual Studio 2005
+summary: >+
+  Microsoft Visual Studio 2005 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru este valabil pentru următoarele ediții: Licență academică Professional, Standard, Standard Edition, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Legături \n* [Informații de asistență Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Orientări privind migrația](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informații despre produsul Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Suportul pentru acest produs s-a încheiat. A se vedea mai jos pentru orientări privind migrația.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition pentru profesioniștii bazelor de date lansat pe 2 martie 2007.\n\n## <a name=\"editions\"></a>Edițiile \n* Profesionale\n* Standard\n* Licență academică Standard Edition\n* Team Edition pentru profesioniștii din domeniul bazelor de date\n* Team Edition pentru arhitecti software\n* Team Edition pentru dezvoltatorii de software\n* Team Edition pentru testeri software\n* Suită de echipă\n* Agent de încărcare de testare echipă\n* Instrumente pentru Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

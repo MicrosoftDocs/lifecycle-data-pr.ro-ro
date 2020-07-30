@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Expresia 4
+  description: Expresia 4 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834075"
+name: Expresia 4
+summary: >+
+  Expresia 4 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru se aplică următoarelor ediții: Design, Encoder, Studio Ultimate, Web
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 08/26/2010
+  end: 09/08/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Original Release
+  startDate: 08/26/2010
+  endDate: 07/14/2020
+content: "\n\n> [!NOTE]\n> Sfârșitul suportului mainstream pentru Expression Studio Ultimate 4 este 13 octombrie 2015.\n\n## <a name=\"editions\"></a>Edițiile \n* Design\n* Encoder\n* Studio Ultimate\n* Web"

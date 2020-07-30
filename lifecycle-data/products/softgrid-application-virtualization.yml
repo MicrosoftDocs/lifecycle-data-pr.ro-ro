@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtualizare aplicație SoftGrid
+  description: Virtualizarea aplicației SoftGrid urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834010"
+name: Virtualizare aplicație SoftGrid
+summary: >
+  Virtualizarea aplicației SoftGrid urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru este valabil pentru următoarele ediții: 4.1 pentru desktop-uri, 4.2 pentru desktop-uri, pentru Terminal Services 4.1
+
+
+  > [!IMPORTANT]
+
+  > Suportul s-a terminat. A se vedea orientările privind migrația de mai jos.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/25/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 05/25/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Edițiile \n* 4.1 pentru desktopuri\n* 4.2 pentru desktopuri\n* pentru Servicii terminale 4.1"

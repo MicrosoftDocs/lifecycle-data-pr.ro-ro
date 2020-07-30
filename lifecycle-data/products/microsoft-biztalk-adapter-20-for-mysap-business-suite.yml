@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adaptor Microsoft BizTalk 2.0
+  description: Adaptorul Microsoft BizTalk 2.0 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6fdfd8881611047a9bf3981520f2ad285f2258e3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834694"
+name: Adaptor Microsoft BizTalk 2.0
+summary: >+
+  Adaptorul Microsoft BizTalk 2.0 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru este valabil pentru următoarele ediții: pentru MSMQ, pentru mySAP Business Suite, pentru SAP
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/20/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/20/2004
+  endDate: 01/13/2015
+content: "\n\n> [!NOTE]\n> Data de început pentru Microsoft BizTalk Adapter 2.0 pentru SAP este 2 noiembrie 2004. Data de început pentru Microsoft BizTalk Adapter 2.0 pentru SAP este 10 decembrie 2004\n\n## <a name=\"editions\"></a>Edițiile \n* pentru MSMQ\n* pentru mySAP Business Suite\n* pentru SAP"
