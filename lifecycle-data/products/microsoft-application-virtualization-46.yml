@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtualizare aplicație Microsoft 4.6
+  description: Microsoft Application Virtualization 4.6 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834714"
+name: Virtualizare aplicație Microsoft 4.6
+summary: >+
+  Microsoft Application Virtualization 4.6 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru este valabil pentru următoarele ediții: pentru Servicii desktop la distanță, pentru desktopuri Windows, Sequencer
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre produs și migrare](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Orientări privind migrația](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Deoarece clientul App-V 4.6 utilizează serverul App-V 4.5, serverul App-V 4.5 va continua să fie acceptat în conformitate cu datele ciclului de viață al Aplicației-V 4.6 atunci când este utilizat cu clientul App-V 4.6 acceptat.\n\n## <a name=\"editions\"></a>Edițiile \n* pentru servicii desktop la distanță\n* pentru desktopuri Windows\n* Sequencer"

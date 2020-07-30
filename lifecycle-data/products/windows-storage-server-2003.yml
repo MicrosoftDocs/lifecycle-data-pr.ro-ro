@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Server de stocare Windows 2003
+  description: Windows Storage Server 2003 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 065ac07411e0e7178b8eba5b5c8f11989dc654aa
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "833978"
+name: Server de stocare Windows 2003
+summary: >
+  Windows Storage Server 2003 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+
+  > [!IMPORTANT]
+
+  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/05/2003
+  end: 10/11/2011
+  extendedEnd: 10/09/2016
+releases:
+- version: Original Release
+  startDate: 05/05/2003
+  endDate: 04/10/2007
+content: "\n## <a name=\"links\"></a>Legături \n* [Prezentare generală a upgrade-urilor Windows Server](/windows-server/upgrade/upgrade-overview)\n* [Informații suplimentare despre upgrade](/windows-server/get-started/installation-and-upgrade)"
