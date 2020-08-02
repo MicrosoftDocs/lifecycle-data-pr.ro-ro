@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "833999"
+name: Windows 7
+summary: "Windows 7 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)\n\nAcest lucru este valabil pentru următoarele ediții: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> '* Extended Security Updates (ESU) sunt disponibile prin intermediul unor programe specifice de licențiere în volum pentru edițiile Windows 7 Professional, Enterprise și Professional for Embedded Systems ale acestui produs, pentru încă trei ani de la sfârșitul asistenței. Contactați partenerul Microsoft sau echipa de cont pentru a afla mai multe. \n\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://support.microsoft.com/help/4057281)\n* [Upgrade-ul de la Windows 7 la Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Program extins de actualizare de securitate (ESU)](/lifecycle/faq/extended-security-updates)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Intreprindere\n* Întreprindere N\n* Acasă De bază\n* Prima pentru acasă\n* Acasă Premium N\n* Profesionale\n* Profesional pentru sisteme încorporate\n* Profesional N\n* Starter\n* Starter N\n* Final\n* Ultimate pentru sisteme încorporate\n* Final N"
