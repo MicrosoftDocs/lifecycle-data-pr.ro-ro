@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2008 R2
+  description: Microsoft SQL Server 2008 R2 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834179"
+name: Microsoft SQL Server 2008 R2
+summary: >+
+  Microsoft SQL Server 2008 R2 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru se aplică următoarelor ediții: Datacenter, Developer, Enterprise, Express, Express with Advanced Services, for Embedded Systems, Standard, Standard Edition for Small Business, Web, Workgroup
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/20/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Legături \n* [Opțiuni de sfârșit de suport SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Opțiuni de sfârșit de suport SQL Server 2008 și Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Program extins de actualizare de securitate (ESU)](/lifecycle/faq/extended-security-updates)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Actualizările de securitate extinse (ESU) sunt disponibile pentru edițiile Datacenter, Standard, Enterprise și Embedded ale acestui produs, timp de până la trei ani înainte de sfârșitul asistenței.\n> [!NOTE]\n> Numai pentru IA64, SP2 va fi acceptat până la 09.07.2019. Consultați blogul SQL Release Services pentru mai multe informații.\n\n## <a name=\"editions\"></a>Edițiile \n* Datacenter\n* Dezvoltator\n* Intreprindere\n* Express\n* Express cu servicii avansate\n* pentru sisteme încorporate\n* Standard\n* Ediție standard pentru întreprinderi mici\n* Web\n* Grup"
