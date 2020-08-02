@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Mobile 2003
+  description: Windows Mobile 2003 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834499"
+name: Windows Mobile 2003
+summary: >
+  Windows Mobile 2003 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru este valabil pentru următoarele ediții: pentru Pocket PC, pentru smartphone-uri, software-ul second edition pentru Pocket PC Phone, software-ul Second Edition pentru Smartphone
+
+
+  > [!IMPORTANT]
+
+  > Suportul pentru acest produs s-a încheiat.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/31/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>Edițiile \n* pentru Pocket PC\n* pentru smartphone-uri\n* Software-ul a doua ediție pentru Pocket PC Phone\n* Software-ul a doua ediție pentru Smartphone"
