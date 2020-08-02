@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2005
+  description: Microsoft SQL Server 2005 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834185"
+name: Microsoft SQL Server 2005
+summary: >
+  Microsoft SQL Server 2005 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru este valabil pentru următoarele ediții: Compact, Developer, Embedded, Enterprise, Enterprise for Automateum-based Systems, Enterprise X64, Express with Advanced Services, Standard, Standard for Automateum based Systems, Standard X64, Workgroup
+
+
+  > [!IMPORTANT]
+
+  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos.
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 01/14/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 4
+  startDate: 12/13/2010
+  endDate: 04/12/2016
+- version: Service Pack 3
+  startDate: 12/15/2008
+  endDate: 01/10/2012
+- version: Service Pack 2
+  startDate: 02/19/2007
+  endDate: 01/12/2010
+- version: Service Pack 1
+  startDate: 04/18/2006
+  endDate: 04/08/2008
+- version: Original Release
+  startDate: 01/14/2006
+  endDate: 07/10/2007
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition lansat 19 februarie 2007.\n\n## <a name=\"editions\"></a>Edițiile \n* Compact\n* Dezvoltator\n* Încorporat\n* Intreprindere\n* Enterprise pentru sisteme automate\n* Întreprindere X64\n* Express\n* Express cu servicii avansate\n* Standard\n* Standard pentru sistemele pe bază de Teoria\n* Standard X64\n* Grup"
