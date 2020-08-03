@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 4.5
+  description: Microsoft .NET Framework 4.5 urmează Politica privind ciclul de viață al componentelor.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0462a82a1db09bc170784225cae666c3d526559c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860908"
+name: Microsoft .NET Framework 4.5
+summary: >+
+  Microsoft .NET Framework 4.5 urmează Politica privind ciclul de viață al [componentelor.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 10/09/2012
+  end: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/09/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Legături \n* [Întrebări frecvente despre ciclul de viață - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informații despre produs](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> Sprijinul pentru .NET Framework 4, 4.5 și 4.5.1 s-a încheiat la 12 ianuarie 2016."

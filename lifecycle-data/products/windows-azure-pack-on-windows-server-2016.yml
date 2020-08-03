@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Azure Pack (pe Windows Server 2016)
+  description: Windows Azure Pack (pe Windows Server 2016) urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860827"
+name: Windows Azure Pack (pe Windows Server 2016)
+summary: >+
+  Windows Azure Pack (pe Windows Server 2016) urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/12/2016
+  end: 01/11/2022
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/12/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>Legături \n* [Mai multe informații](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure Pack pentru Windows Server este o soluție cloud hibridă care aduce tehnologiile Windows Azure la centrul de date. Acesta permite clienților Microsoft să ofere un cloud bogat, cu autoservire, cu mai multe entități găzduite, pe hardware-ul centrului de date, fără costuri suplimentare."
