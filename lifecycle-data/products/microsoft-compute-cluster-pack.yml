@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Pachet de clustere de calcul Microsoft
+  description: Microsoft Compute Cluster Pack urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834663"
+name: Pachet de clustere de calcul Microsoft
+summary: >
+  Microsoft Compute Cluster Pack urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+
+  > [!IMPORTANT]
+
+  > Suportul pentru acest produs s-a încheiat.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 09/06/2006
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 1
+  startDate: 03/07/2007
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 09/06/2006
+  endDate: 04/08/2008
+content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)"
