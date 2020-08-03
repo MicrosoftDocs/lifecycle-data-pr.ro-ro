@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Consola de gestionare a securității Microsoft Forefront Server
+  description: Consola de gestionare a securității Microsoft Forefront Server urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834638"
+name: Consola de gestionare a securității Microsoft Forefront Server
+summary: >+
+  Consola de gestionare a securității Microsoft Forefront Server urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/10/2008
+  end: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 01/10/2008
+  endDate: 04/08/2014
+content: ''
