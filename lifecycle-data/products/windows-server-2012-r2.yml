@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2012 R2
+  description: Windows Server 2012 R2 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860835"
+name: Windows Server 2012 R2
+summary: >+
+  Windows Server 2012 R2 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru este valabil pentru următoarele ediții: Datacenter, Essentials, pentru sisteme integrate, Fundație,
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/25/2013
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Suportul mainstream și extins pentru acest produs a fost extins pentru a oferi clienților cronologia standard de tranziție a ciclului de viață.\n\n## <a name=\"editions\"></a>Edițiile \n* Datacenter\n* Cunoștințe de bază\n* pentru sisteme încorporate\n* Fundaţia\n* Standard"

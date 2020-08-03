@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Protecția punctului final Microsoft System Center 2012 R2
+  description: Microsoft System Center 2012 R2 Endpoint Protection urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8e3f5935bc3b59d2a18a967b2bb5001c0ce01c1d
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860890"
+name: Protecția punctului final Microsoft System Center 2012 R2
+summary: >+
+  Microsoft System Center 2012 R2 Endpoint Protection urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 01/16/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 1
+  startDate: 05/12/2015
+  endDate: 07/12/2022
+- version: Original Release
+  startDate: 01/16/2014
+  endDate: 07/12/2016
+content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre service](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Orientări privind migrația](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n* [Documentația Microsoft Endpoint Manager](/mem/)\n\n> [!NOTE]\n> Clienții trebuie să rămână la curent cu cea mai recentă actualizare a platformei anti-malware pentru a fi pe deplin acceptată."

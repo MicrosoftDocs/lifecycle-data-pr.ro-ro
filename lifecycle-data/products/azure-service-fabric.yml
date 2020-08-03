@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Țesătură de service Azure
+  description: Azure Service Fabric urmează Politica modernă privind ciclul de viață.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 075ce98becd0ba968cec21bf37699b76f89062c6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860790"
+name: Țesătură de service Azure
+summary: >+
+  Azure Service Fabric urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 09/26/2016
+releases:
+- version: Original Release
+  startDate: 09/26/2016
+content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre service](/azure/service-fabric/service-fabric-support)\n* [Versiunile](/azure/service-fabric/service-fabric-versions)"
