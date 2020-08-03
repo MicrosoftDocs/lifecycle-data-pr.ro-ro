@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Protecție punct final Microsoft Forefront 2010
+  description: Microsoft Forefront Endpoint Protection 2010 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861105"
+name: Protecție punct final Microsoft Forefront 2010
+summary: >
+  Microsoft Forefront Endpoint Protection 2010 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+
+  > [!IMPORTANT]
+
+  > Suportul s-a terminat. A se vedea orientările privind migrația de mai jos.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Informații despre service](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Clienții trebuie să rămână la curent cu cea mai recentă actualizare a platformei anti-malware pentru a fi pe deplin acceptată. Forefront Endpoint Protection 2010 este acoperit de aceeași politică privind ciclul de viață ca și System Center Configuration Manager 2007, atât pentru suportul mainstream, cât și pentru suportul extins."

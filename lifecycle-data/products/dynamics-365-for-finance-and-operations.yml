@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 pentru finanțe și operațiuni
+  description: Dynamics 365 for Finance and Operations urmează Politica modernă privind ciclul de viață.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861068"
+name: Dynamics 365 pentru finanțe și operațiuni
+summary: >+
+  Dynamics 365 for Finance and Operations urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
+
+
+  Acest lucru se aplică următoarelor ediții: Enterprise
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 02/19/2016
+releases:
+- version: Original Release
+  startDate: 02/19/2016
+content: "\n## <a name=\"links\"></a>Legături \n* [Foaie de parcurs Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Informații despre service](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Cerințe de sistem](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Intreprindere"

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2015
+  description: Visual Studio 2015 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861045"
+name: Visual Studio 2015
+summary: >+
+  Visual Studio 2015 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru este valabil pentru următoarele ediții: Agenți, Comunitate, Enterprise, Express pentru Web, Express pentru Windows 10, Express pentru Windows Desktop, Modelare SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Izolat), Test Professional, Visual C++ Redistribuble
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre service](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Agenţi\n* Comunity\n* Intreprindere\n* Express pentru Web\n* Express pentru Windows 10\n* Express pentru Windows Desktop\n* Modelare SDK\n* Profesionale\n* Gestionare lansare\n* Instrumente la distanță\n* Sdk\n* Shell (Integrat)\n* Coajă (izolată)\n* Test profesional\n* Visual C++ Redistribubil"

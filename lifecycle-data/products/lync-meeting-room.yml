@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Sala de întâlniri Lync
+  description: Sala de întâlniri Lync respectă Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860948"
+name: Sala de întâlniri Lync
+summary: "Sala de întâlniri Lync respectă Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. Consultați orientările privind migrația. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/01/2013
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 09/01/2013
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"

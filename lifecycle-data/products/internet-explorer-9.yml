@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 9
+  description: Internet Explorer 9 urmează Politica privind ciclul de viață al componentelor.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860947"
+name: Internet Explorer 9
+summary: >+
+  Internet Explorer 9 urmează Politica privind ciclul de viață al [componentelor.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 03/15/2011
+releases:
+- version: Original Release
+  startDate: 03/15/2011
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://www.microsoft.com/itpro/microsoft-edge)\n* [Întrebări frecvente despre politica privind ciclul de viață internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Începând cu 12 ianuarie 2016, numai cea mai recentă versiune de Internet Explorer disponibilă pentru un sistem de operare acceptat va primi asistență tehnică și actualizări de securitate."
