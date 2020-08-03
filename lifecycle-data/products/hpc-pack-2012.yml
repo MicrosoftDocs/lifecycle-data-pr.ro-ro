@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: HpC Pack 2012
+  description: HPC Pack 2012 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 965bf24743a042a2aeda7973d670e4daf90327c4
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860963"
+name: HpC Pack 2012
+summary: >+
+  HPC Pack 2012 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/11/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 03/11/2013
+  endDate: 04/11/2023
+content: "\n## <a name=\"links\"></a>Legături \n* [Prezentare generală a Microsoft HPC Pack](/powershell/high-performance-computing/overview-of-microsoft-hpc-pack?view=hpc19-ps)"

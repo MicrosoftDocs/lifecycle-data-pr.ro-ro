@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2012 R2
+  description: Windows Storage Server 2012 R2 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861199"
+name: Windows Storage Server 2012 R2
+summary: >+
+  Windows Storage Server 2012 R2 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+  Acest lucru este valabil pentru următoarele ediții: Essentials, Standard, Workgroup
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/25/2013
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Suportul mainstream și extins pentru acest produs a fost extins pentru a oferi clienților cronologia standard de tranziție a ciclului de viață.\n> [!NOTE]\n> Data de începere a ediției Essentials este 25 septembrie 2014. \n\n## <a name=\"editions\"></a>Edițiile \n* Cunoștințe de bază\n* Standard\n* Grup"

@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Center 2012 Orchestrator
+  description: Microsoft System Center 2012 Orchestrator urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d2e8d6efc8fa088c9eb3db033e371374b8e78d40
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861007"
+name: Microsoft System Center 2012 Orchestrator
+summary: >+
+  Microsoft System Center 2012 Orchestrator urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2022
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n* [Documentație centru de sistem](/system-center/#pivot=components&panel=components-all)\n* [Resurse centru sistem](https://www.microsoft.com/system-center/resources)"

@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Seria StorSimple 5000/7000
+  description: Seria StorSimple 5000/7000 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861278"
+name: Seria StorSimple 5000/7000
+summary: "Seria StorSimple 5000/7000 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos. \n"
+products:
+- azure
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/15/2012
+  end: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 11/15/2012
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Nucleu cadru entitate
+  description: Entity Framework Core urmează Politica modernă privind ciclul de viață.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861131"
+name: Nucleu cadru entitate
+summary: >+
+  Entity Framework Core urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: Original Release
+  startDate: 06/27/2016
+content: "\n## <a name=\"links\"></a>Legături \n* [Întrebări frecvente despre ciclul de viață - .NET Core](/lifecycle/faq/dotnet-core)\n* [Informații despre service](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Foaia de parcurs .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"
