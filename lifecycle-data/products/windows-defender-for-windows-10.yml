@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Defender pentru Windows 10
+  description: Windows Defender pentru Windows 10 urmează Politica privind ciclul de viață al componentelor.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834524"
+name: Windows Defender pentru Windows 10
+summary: >+
+  Windows Defender pentru Windows 10 urmează Politica privind ciclul de viață al [componentelor.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 07/29/2015
+  end: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 07/29/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Legături \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Această versiune este cunoscută ca o componentă care urmează ciclul de viață al produsului său părinte, Windows 10."
