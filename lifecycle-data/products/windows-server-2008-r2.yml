@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008 R2
+  description: Windows Server 2008 R2 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834864"
+name: Windows Server 2008 R2
+summary: "Windows Server 2008 R2 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)\n\nAcest lucru se aplică următoarelor ediții: Datacenter, Enterprise, HPC Edition, Automate pe bază de sisteme, Standard, Web\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://aka.ms/AA1ovn4)\n* [Informații upgrade server](/windows-server/upgrade/upgrade-overview)\n* [Program extins de actualizare de securitate (ESU)](/lifecycle/faq/extended-security-updates)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Actualizările de securitate extinse (ESU) sunt disponibile prin programe specifice de licențiere în volum pentru edițiile Datacenter, Standard, Enterprise și Embedded ale edițiilor acestui produs, timp de până la trei ani în plus după sfârșitul asistenței. Contactați partenerul Microsoft sau echipa de cont pentru a afla mai multe. \n\nData lansării-------------------------------Începeția---- Data de sfârșit\n\nActualizare extinsă de securitate Anul 3---01/11/2022---01/10/2023\n\nActualizare extinsă de securitate Anul 2---01/12/2021---01/11/2022\n\nAn de actualizare de securitate extinsă 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Edițiile \n* Datacenter\n* Intreprindere\n* Ediția HPC\n* Sisteme pe bază de teoria teoria 10\n* Standard\n* Web"

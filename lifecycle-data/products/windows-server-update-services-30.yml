@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Servicii de actualizare Windows Server 3.0
+  description: Windows Server Update Services 3.0 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834863"
+name: Servicii de actualizare Windows Server 3.0
+summary: >
+  Windows Server Update Services 3.0 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+
+  > [!IMPORTANT]
+
+  > Suportul s-a terminat. A se vedea orientările privind migrația de mai jos.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/10/2007
+  end: 07/10/2012
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 08/25/2009
+  endDate: 01/14/2020
+- version: Service Pack 1
+  startDate: 04/17/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 07/10/2007
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Sprijinul a fost prelungit de la 11.07.2017 la 14.01.2020."
