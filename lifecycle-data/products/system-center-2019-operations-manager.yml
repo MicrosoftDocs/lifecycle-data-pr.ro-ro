@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Manager operațiuni System Center 2019
+  description: System Center 2019 Operations Manager urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f5bee333a3804dceb691a900186014bd104a6e77
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871623"
+name: Manager operațiuni System Center 2019
+summary: >+
+  System Center 2019 Operations Manager urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 03/14/2019
+  end: 04/09/2024
+  extendedEnd: 04/09/2029
+releases:
+- version: Original Release
+  startDate: 03/14/2019
+  endDate: 04/09/2029
+content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre produs](/system-center/)"

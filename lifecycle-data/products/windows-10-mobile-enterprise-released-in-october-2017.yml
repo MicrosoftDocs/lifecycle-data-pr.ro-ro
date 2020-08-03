@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile Enterprise, lansat în octombrie 2017
+  description: Windows 10 Mobile Enterprise, lansat în octombrie 2017, urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: eca2b57c1fc69d610cf6f8cf0232c11eccf06ead
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871637"
+name: Windows 10 Mobile Enterprise, lansat în octombrie 2017
+summary: >
+  Windows 10 Mobile Enterprise, lansat în octombrie 2017, urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+
+  > [!IMPORTANT]
+
+  > Suportul pentru acest produs s-a încheiat.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/17/2017
+  end: 12/10/2019
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/17/2017
+content: "\n## <a name=\"links\"></a>Legături \n* [Întrebări frecvente despre ciclul de viață al sistemului de operare al dispozitivului](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile a încheiat asistența pe 10 decembrie 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

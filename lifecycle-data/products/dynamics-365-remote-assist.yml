@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Asistență la distanță Dynamics 365
+  description: Dynamics 365 Remote Assist urmează Politica privind ciclul de viață modern.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f515184c8d286e79842892235e7e48414438d758
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871570"
+name: Asistență la distanță Dynamics 365
+summary: >+
+  Dynamics 365 Remote Assist urmează Politica privind ciclul de viață [modern.](/lifecycle/policies/modern)
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 09/30/2018
+releases:
+- version: Original Release
+  startDate: 09/30/2018
+content: "\n## <a name=\"links\"></a>Legături \n* [Aspect și asistență la distanță](/dynamics365/mixed-reality/layout/faq)"
