@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Securitate forefront pentru Exchange Server
+  description: Forefront Security for Exchange Server urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834749"
+name: Securitate forefront pentru Exchange Server
+summary: >
+  Forefront Security for Exchange Server urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+
+  > [!IMPORTANT]
+
+  > Foaia de parcurs pentru produsele de securitate sub marca Forefront s-a schimbat. Acest produs este întrerupt începând cu 31 decembrie 2015.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/08/2007
+  extendedEnd: 12/31/2015
+releases:
+- version: Service Pack 2
+  startDate: 06/30/2009
+  endDate: 12/31/2015
+- version: Service Pack 1
+  startDate: 11/29/2007
+  endDate: 07/13/2010
+- version: Original Release
+  startDate: 03/08/2007
+  endDate: 01/13/2009
+content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://www.microsoft.com/security/business/explore/cybersecurity)"

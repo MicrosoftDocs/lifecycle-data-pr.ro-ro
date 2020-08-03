@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adaptor BizTalk pentru MQSeries 2005
+  description: BizTalk Adapter pentru MQSeries 2005 urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834916"
+name: Adaptor BizTalk pentru MQSeries 2005
+summary: >+
+  BizTalk Adapter pentru MQSeries 2005 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 12/10/2004
+  end: 12/31/2009
+  extendedEnd: 12/31/2014
+releases:
+- version: Original Release
+  startDate: 12/10/2004
+  endDate: 12/31/2014
+content: ''

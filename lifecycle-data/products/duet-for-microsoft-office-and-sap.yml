@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Duet pentru Microsoft Office și SAP
+  description: Duet pentru Microsoft Office și SAP urmează Politica privind ciclul de viață fix.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7eb8ccf553c6adb14f39a87a103274110b34c656
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "834905"
+name: Duet pentru Microsoft Office și SAP
+summary: >+
+  Duet pentru Microsoft Office și SAP urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 10/28/2006
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 10/28/2006
+  endDate: 01/10/2012
+content: "\n## <a name=\"links\"></a>Legături \n* [Sap](https://support.sap.com/index.html)\n\n> [!NOTE]\n> Acest produs este vândut și acceptat de SAP."
