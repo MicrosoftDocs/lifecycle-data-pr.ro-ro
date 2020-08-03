@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync Phone Edition
+  description: Microsoft Lync Phone Edition urmează Politica privind ciclul de viață fix.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
+  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 07/31/2020
+  ms.locfileid: "879527"
+name: Microsoft Lync Phone Edition
+summary: >+
+  Microsoft Lync Phone Edition urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/11/2023
+content: "\n## <a name=\"links\"></a>Legături \n* [Informații suplimentare](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition este acceptat cu Lync Server 2010 și Lync Server 2013. Data de asistență pentru Lync Phone Edition a fost prelungită cu 2 ani pentru a se alinia cu ciclul de viață Lync Server 2013."
