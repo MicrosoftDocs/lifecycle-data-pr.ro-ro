@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Accelerator Microsoft BizTalk pentru SWIFT 2.3
-  description: Microsoft BizTalk Accelerator pentru SWIFT 2.3 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b4e8c14f0cc9d8a023d62d4c8ed6521eed1f40a4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft BizTalk Accelerator pentru SWIFT 2,3
+  description: Microsoft BizTalk Accelerator pentru SWIFT 2,3 urmează politica de ciclu de viață fixă.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834696"
-name: Accelerator Microsoft BizTalk pentru SWIFT 2.3
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893548"
+name: Microsoft BizTalk Accelerator pentru SWIFT 2,3
 summary: >+
-  Microsoft BizTalk Accelerator pentru SWIFT 2.3 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft BizTalk Accelerator pentru SWIFT 2,3 urmează politica de ciclu de viață [fixă](/lifecycle/policies/fixed) .
 
 
-  Acest lucru se aplică următoarelor ediții: Enterprise, Standard
+  Acest lucru se aplică următoarelor ediții: Enterprise, standard
 
 products:
 - microsoft-servers
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2006
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Intreprindere\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica pachetului de servicii](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Enterprise\n* Standard"

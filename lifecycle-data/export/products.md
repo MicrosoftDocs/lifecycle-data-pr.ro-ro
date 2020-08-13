@@ -1,27 +1,27 @@
 ---
 title: Exportul produselor
 description: Exportul informațiilor despre ciclul de viață al produsului
-ms.date: 08/12/2020
-ms.openlocfilehash: 4a3e2de9614fe0850cb0353468a6ad9f88857d8c
-ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+ms.date: 08/13/2020
+ms.openlocfilehash: 392fea55e33da62de142ddf7fe2d70e1aec3e0da
+ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "891718"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "893326"
 ---
-# <a name="export"></a><span data-ttu-id="825a4-103">Export</span><span class="sxs-lookup"><span data-stu-id="825a4-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="ef024-103">Export</span><span class="sxs-lookup"><span data-stu-id="ef024-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="825a4-104">Această pagină este sub dezvoltare.</span><span class="sxs-lookup"><span data-stu-id="825a4-104">This page is under development.</span></span>
+> <span data-ttu-id="ef024-104">Această pagină este sub dezvoltare.</span><span class="sxs-lookup"><span data-stu-id="ef024-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="825a4-105">Exportați toate produsele</span><span class="sxs-lookup"><span data-stu-id="825a4-105">Export All Products</span></span>
-<span data-ttu-id="825a4-106">Exportați toate produsele fără filtre.</span><span class="sxs-lookup"><span data-stu-id="825a4-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="ef024-105">Exportați toate produsele</span><span class="sxs-lookup"><span data-stu-id="ef024-105">Export All Products</span></span>
+<span data-ttu-id="ef024-106">Exportați toate produsele fără filtre.</span><span class="sxs-lookup"><span data-stu-id="ef024-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="825a4-107">Exportați toate produsele</span><span class="sxs-lookup"><span data-stu-id="825a4-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="ef024-107">Exportați toate produsele</span><span class="sxs-lookup"><span data-stu-id="ef024-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="825a4-108">Exportul produselor după categorie</span><span class="sxs-lookup"><span data-stu-id="825a4-108">Export Products by Category</span></span>
-<span data-ttu-id="825a4-109">Selectați un grup pentru a exporta:</span><span class="sxs-lookup"><span data-stu-id="825a4-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="ef024-108">Exportul produselor după categorie</span><span class="sxs-lookup"><span data-stu-id="ef024-108">Export Products by Category</span></span>
+<span data-ttu-id="ef024-109">Selectați un grup pentru a exporta:</span><span class="sxs-lookup"><span data-stu-id="ef024-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="Familie" title2="Grupul"]
 > - [(.NET | Toate](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "891718"
 > - [(Windows | Securitate](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="825a4-167">Exportul produselor până la sfârșitul anului de asistență</span><span class="sxs-lookup"><span data-stu-id="825a4-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="825a4-168">Selectați un an pentru a exporta serviciul de terminare a produselor în acel an:</span><span class="sxs-lookup"><span data-stu-id="825a4-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="ef024-167">Exportul produselor până la sfârșitul anului de asistență</span><span class="sxs-lookup"><span data-stu-id="ef024-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="ef024-168">Selectați un an pentru a exporta serviciul de terminare a produselor în acel an:</span><span class="sxs-lookup"><span data-stu-id="ef024-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
