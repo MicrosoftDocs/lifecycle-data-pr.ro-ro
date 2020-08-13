@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6.5
-  description: Windows Mobile 6.5 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 28da232d32da22a3b3ad4d3bf76e3bcf17609a1e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Windows Mobile 6,5
+  description: Windows Mobile 6,5 urmează politica de ciclu de viață fixă.
+  ms.date: 08/13/2020
+  ms.openlocfilehash: 7dedd3bd65fb6266b94a65e9b61addc1521602fc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834501"
-name: Windows Mobile 6.5
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "894157"
+name: Windows Mobile 6,5
 summary: >
-  Windows Mobile 6.5 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows Mobile 6,5 urmează politica de ciclu de viață [fixă](/lifecycle/policies/fixed) .
 
 
-  Acest lucru se aplică următoarelor ediții: Professional, Standard
+  Acest lucru se aplică următoarelor ediții: Professional, standard
 
 
   > [!IMPORTANT]
 
-  > Suportul pentru acest produs s-a încheiat.
+  > Asistența pentru acest produs s-a încheiat.
 products:
 - windows
 policyType: fixed-mainstream-only

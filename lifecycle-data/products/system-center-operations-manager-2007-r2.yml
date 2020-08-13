@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center Operations Manager 2007 R2
-  description: System Center Operations Manager 2007 R2 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1ab9c0a078bf449f1b4118876bcc435d642215fd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: System Center Operations Manager 2007 R2 urmează politica ciclului de viață fixă.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834006"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892512"
 name: System Center Operations Manager 2007 R2
-summary: "System Center Operations Manager 2007 R2 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos. \n"
+summary: "System Center Operations Manager 2007 R2 urmează politica ciclului de viață [fixă](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Asistența pentru acest produs s-a încheiat. Consultați Ghidul de migrare de mai jos. \n"
 products:
 - msc
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Ghid de migrare](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

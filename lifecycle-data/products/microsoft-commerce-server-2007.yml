@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Commerce Server 2007
-  description: Microsoft Commerce Server 2007 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 456c3a4b3430312ba8c2a1e949f1c5b7bb820ee9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Commerce Server 2007 urmează politica de ciclu de viață fixă.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834666"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893474"
 name: Microsoft Commerce Server 2007
 summary: >
-  Microsoft Commerce Server 2007 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Commerce Server 2007 urmează politica de ciclu de viață [fixă](/lifecycle/policies/fixed) .
 
 
-  Acest lucru se aplică următoarelor ediții: Dezvoltator, Întreprindere,
+  Acest lucru se aplică următoarelor ediții: dezvoltator, întreprindere, standard
 
 
   > [!IMPORTANT]
 
-  > Suportul pentru acest produs s-a încheiat.
+  > Asistența pentru acest produs s-a încheiat.
 products:
 - microsoft-servers
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Dezvoltator\n* Intreprindere\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica pachetului de servicii](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Dezvoltator\n* Enterprise\n* Standard"
