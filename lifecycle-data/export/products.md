@@ -2,26 +2,26 @@
 title: Exportul datelor în ciclul de viață
 description: Exportul informațiilor despre ciclul de viață al produsului
 ms.date: 08/19/2020
-ms.openlocfilehash: d116baffd1a01f45fafeb184fddda1a0736e694a
-ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+ms.openlocfilehash: a9831c67fa9c42ad557eb3d02d4a7c71621b92d2
+ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
 ms.translationtype: MT
 ms.contentlocale: ro-RO
 ms.lasthandoff: 08/19/2020
-ms.locfileid: "902648"
+ms.locfileid: "903666"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="ac3ac-103">Exportul datelor în ciclul de viață</span><span class="sxs-lookup"><span data-stu-id="ac3ac-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="1ba2f-103">Exportul datelor în ciclul de viață</span><span class="sxs-lookup"><span data-stu-id="1ba2f-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="ac3ac-104">Această pagină este sub dezvoltare.</span><span class="sxs-lookup"><span data-stu-id="ac3ac-104">This page is under development.</span></span>
+> <span data-ttu-id="1ba2f-104">Această pagină este sub dezvoltare.</span><span class="sxs-lookup"><span data-stu-id="1ba2f-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="ac3ac-105">Exportați toate produsele</span><span class="sxs-lookup"><span data-stu-id="ac3ac-105">Export all products</span></span>
-<span data-ttu-id="ac3ac-106">Exportați datele despre ciclul de viață pentru toate produsele, făcând clic mai jos:</span><span class="sxs-lookup"><span data-stu-id="ac3ac-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="1ba2f-105">Exportați toate produsele</span><span class="sxs-lookup"><span data-stu-id="1ba2f-105">Export all products</span></span>
+<span data-ttu-id="1ba2f-106">Exportați datele despre ciclul de viață pentru toate produsele, făcând clic mai jos:</span><span class="sxs-lookup"><span data-stu-id="1ba2f-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="ac3ac-107">Exportați toate produsele</span><span class="sxs-lookup"><span data-stu-id="ac3ac-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="1ba2f-107">Exportați toate produsele</span><span class="sxs-lookup"><span data-stu-id="1ba2f-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="ac3ac-108">Exportul produselor după familie și grup</span><span class="sxs-lookup"><span data-stu-id="ac3ac-108">Export products by Family and Group</span></span>
-<span data-ttu-id="ac3ac-109">Selectați o familie, apoi un grup de exportat.</span><span class="sxs-lookup"><span data-stu-id="ac3ac-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="ac3ac-110">Notă: exportul va începe atunci când este selectată valoarea de grup.</span><span class="sxs-lookup"><span data-stu-id="ac3ac-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="1ba2f-108">Exportul produselor după familie și grup</span><span class="sxs-lookup"><span data-stu-id="1ba2f-108">Export products by Family and Group</span></span>
+<span data-ttu-id="1ba2f-109">Selectați o familie, apoi un grup de exportat.</span><span class="sxs-lookup"><span data-stu-id="1ba2f-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="1ba2f-110">Notă: exportul va începe atunci când este selectată valoarea de grup.</span><span class="sxs-lookup"><span data-stu-id="1ba2f-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Familie" title2="Grupul"]
 > - [(.NET | Toate](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -46,6 +46,7 @@ ms.locfileid: "902648"
 > - [(Expresie | Toate](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Expression')
 > - [(Expresie | Expresie](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Expression'%20and%20parent/parent/name%20eq%20'Expression')
 > - [(Microsoft 365 | Toate](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365')
+> - [(Microsoft 365 | Enterprise Mobility + Security)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Enterprise%20Mobility%20%2B%20Security')
 > - [(Microsoft 365 | Gestionarea identității)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Identity%20Management')
 > - [(Cadru servicii conectate Microsoft | Toate](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework')
 > - [(Cadru servicii conectate Microsoft | Cadru servicii conectate)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework'%20and%20parent/parent/name%20eq%20'Connected%20Services%20Framework')
@@ -80,8 +81,8 @@ ms.locfileid: "902648"
 > - [(Windows | Securitate](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="ac3ac-168">Exportul produselor după data de sfârșit a asistenței</span><span class="sxs-lookup"><span data-stu-id="ac3ac-168">Export products by end of support date</span></span>
-<span data-ttu-id="ac3ac-169">Selectați un an pentru a vedea produsele care ajung la sfârșitul asistenței.</span><span class="sxs-lookup"><span data-stu-id="ac3ac-169">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="ac3ac-170">Notă: exportul va începe atunci când este selectată valoarea Year.</span><span class="sxs-lookup"><span data-stu-id="ac3ac-170">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="1ba2f-169">Exportul produselor după data de sfârșit a asistenței</span><span class="sxs-lookup"><span data-stu-id="1ba2f-169">Export products by end of support date</span></span>
+<span data-ttu-id="1ba2f-170">Selectați un an pentru a vedea produsele care ajung la sfârșitul asistenței.</span><span class="sxs-lookup"><span data-stu-id="1ba2f-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="1ba2f-171">Notă: exportul va începe atunci când este selectată valoarea Year.</span><span class="sxs-lookup"><span data-stu-id="1ba2f-171">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
