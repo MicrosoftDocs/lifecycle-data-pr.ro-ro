@@ -1,13 +1,13 @@
 ---
 title: Exportul datelor în ciclul de viață
 description: Exportul informațiilor despre ciclul de viață al produsului
-ms.date: 08/18/2020
-ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
-ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
+ms.date: 08/19/2020
+ms.openlocfilehash: d116baffd1a01f45fafeb184fddda1a0736e694a
+ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
 ms.translationtype: MT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "902415"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "902648"
 ---
 # <a name="lifecycle-data-export"></a>Exportul datelor în ciclul de viață
 
