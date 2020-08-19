@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Politician
+  description: Politicianul urmează politica privind ciclul de viață fix.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904421"
+name: Politician
+summary: >+
+  Politicianul urmează politica privind ciclul de viață [fix](/lifecycle/policies/fixed) .
+
+
+  Acest lucru se aplică următoarelor ediții: securitate aplicație, Outlook Edition, Professional 9,0, registry Extension 2,0, partajare Manager 1,0, Software Update 1,0, actualizare software 2,0, standard 1,0, standard 2,0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> Asistența pentru acest produs se supune termenilor de achiziție.\n\n## <a name=\"editions\"></a>Edițiile \n* Securitate aplicație\n* Ediția Outlook\n* 9,0 Professional\n* Extensia de registry 2,0\n* Partajarea managerului 1,0\n* Actualizare software 1,0\n* Actualizare software 2,0\n* Standard 1,0\n* Standard 2,0"
