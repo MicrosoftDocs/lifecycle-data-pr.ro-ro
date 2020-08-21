@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Windows Server 2012 urmează Politica privind ciclul de viață fix.
+  description: Windows Server 2012 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861254"
 name: Windows Server 2012
 summary: >+
-  Windows Server 2012 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows Server 2012 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru este valabil pentru următoarele ediții: Datacenter, Essentials, pentru sisteme integrate, Fundație,
+  Aceasta se aplică edițiilor următoare: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/windows-server/upgrade/upgrade-overview)\n* [Informații despre produs](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Suportul mainstream și extins pentru acest produs a fost extins pentru a oferi clienților cronologia standard de tranziție a ciclului de viață. Windows Server Essentials lansat pe 2 ianuarie 2013.\n\n## <a name=\"editions\"></a>Edițiile \n* Datacenter\n* Cunoștințe de bază\n* pentru sisteme încorporate\n* Fundaţia\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/windows-server/upgrade/upgrade-overview)\n* [Informații despre produs](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Suportul mainstream și extins pentru acest produs a fost extins pentru a oferi clienților cronologia de tranziție a ciclului de viață standard. Windows Server Essentials s-a lansat pe 2 ianuarie 2013.\n\n## <a name=\"editions\"></a>Ediții \n* Datacenter\n* Essentials\n* for Embedded Systems\n* Foundation\n* Standard"

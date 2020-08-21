@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2019
-  description: Visual Studio 2019 urmează Politica privind ciclul de viață fix.
+  description: Visual Studio 2019 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871619"
 name: Visual Studio 2019
 summary: >+
-  Visual Studio 2019 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Visual Studio 2019 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru este valabil pentru următoarele ediții: Agenți, Instrumente de construcție, Comunitate, Enterprise, pentru Mac, Colector independent IntelliTrace, Instrumente de performanță, Professional, Instrumente la distanță, Explorator echipă, Visual C++ Redistribuble
+  Aceasta se aplică edițiilor următoare: Agents, Build Tools, Community, Enterprise, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Legături \n* [Anunţ](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informații despre service](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Agenţi\n* Instrumente de compilare\n* Comunity\n* Intreprindere\n* pentru Mac\n* Colector independent IntelliTrace\n* Instrumente de performanță\n* Profesionale\n* Instrumente la distanță\n* Explorator echipă\n* Visual C++ Redistribubil"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Anunț](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informații despre servicii](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Ediții \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* pentru Mac\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* Remote Tools\n* Team Explorer\n* Visual C++ Redistributable"

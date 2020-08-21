@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servicii Windows 10 IoT Core
-  description: Serviciile Windows 10 IoT Core respectă Politica privind ciclul de viață modern.
+  title: Windows 10 IoT Core Services
+  description: Windows 10 IoT Core Services respectă Politica modernă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871609"
-name: Servicii Windows 10 IoT Core
+name: Windows 10 IoT Core Services
 summary: >+
-  Serviciile Windows 10 IoT Core respectă Politica privind ciclul de viață [modern.](/lifecycle/policies/modern)
+  Windows 10 IoT Core Services respectă Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Legături \n* [Servicii de bază Windows 10 IoT](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services este un abonament care oferă suport software ca serviciu, inclusiv controlul actualizărilor cu Device Update Center și securitate îmbunătățită cu Atestarea stării de sănătate a dispozitivului, atâta timp cât rulați o versiune acceptată de Windows 10 IoT Core Software."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services este un abonament care oferă suport software ca serviciu, inclusiv controlul actualizărilor cu Centrul de actualizare a dispozitivelor și securitate îmbunătățită cu Atestarea stării de bună funcționare a dispozitivelor, atâta timp cât rulați o versiune acceptată de Windows 10 IoT Core Software."

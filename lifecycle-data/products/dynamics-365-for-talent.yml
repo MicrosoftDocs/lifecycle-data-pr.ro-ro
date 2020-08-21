@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 pentru talent
-  description: Dynamics 365 for Talent respectă Politica privind ciclul de viață modern.
+  title: Dynamics 365 for Talent
+  description: Dynamics 365 for Talent respectă Politica modernă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871588"
-name: Dynamics 365 pentru talent
+name: Dynamics 365 for Talent
 summary: >+
-  Dynamics 365 for Talent respectă Politica privind ciclul de viață [modern.](/lifecycle/policies/modern)
+  Dynamics 365 for Talent respectă Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții:
+  Aceasta se aplică edițiilor următoare: Onboard
 
 products:
 - dynamics
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Legături \n* [Cerințe de sistem](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Orientări privind migrația](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Aplicațiile Attract și Onboard vor fi retrase pe 2 februarie 2022.  Core HR relansat ca Dynamics 365 Human Resources pe 1 februarie 2020, consultați instrucțiunile privind migrarea pentru mai multe informații.\n\n## <a name=\"editions\"></a>Edițiile \n* Bord"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Cerințe de sistem](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Instrucțiuni pentru migrare](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Aplicațiile Attract și Onboard vor fi retrase pe 2 februarie 2022.  Core HR s-a relansat ca Dynamics 365 Human Resources pe 1 februarie 2020, consultați instrucțiunile privind migrarea pentru mai multe informații.\n\n## <a name=\"editions\"></a>Ediții \n* Onboard"

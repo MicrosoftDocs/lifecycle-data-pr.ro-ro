@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT 2019 LTSC
-  description: Windows 10 IoT 2019 LTSC urmează Politica privind ciclul de viață fix.
+  description: Windows 10 IoT 2019 LTSC urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871612"
 name: Windows 10 IoT 2019 LTSC
 summary: >+
-  Windows 10 IoT 2019 LTSC urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows 10 IoT 2019 LTSC urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Core, Enterprise
+  Aceasta se aplică edițiilor următoare: Core, Enterprise
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Legături \n* [Servicii de bază Windows 10 IoT](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [el Windows 10 Octombrie Update (versiunea 1809) a fost re-lansat pe 13 noiembrie 2018. Datele de asistență au fost ajustate în consecință.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows ca serviciu (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Întrebări frecvente despre Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Canalul de service pe termen lung Windows 10\n\n## <a name=\"editions\"></a>Edițiile \n* Core\n* Intreprindere"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Actualizarea din octombrie a Windows 10 (versiunea 1809) a fost lansată din nou pe 13 noiembrie 2018. Datele privind asistența au fost modificate în mod corespunzător.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows ca serviciu (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Întrebări frecvente despre Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Canalul de servicii pe termen lung al Windows 10\n\n## <a name=\"editions\"></a>Ediții \n* Core\n* Enterprise"
