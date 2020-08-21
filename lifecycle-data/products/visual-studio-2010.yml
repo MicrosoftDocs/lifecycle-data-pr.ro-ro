@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2010
-  description: Visual Studio 2010 urmează Politica privind ciclul de viață fix.
+  description: Visual Studio 2010 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834158"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Visual Studio 2010 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Agenți, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (Izolat), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer, Visual Visual Designing & SDK
+  Aceasta se aplică edițiilor următoare: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Agenţi\n* Toate\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Durată de rulare\n* Managementul laboratorului\n* Instrumente de performanță\n* Premium\n* Profesionale\n* Depanator la distanță\n* Sdk\n* Shell (Integrat)\n* Coajă (izolată)\n* Agenți de echipă\n* Explorator echipă\n* Test profesional\n* Instrumente pentru Office System 4.0 Runtime\n* Final\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizare & Modelare SDK"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediții \n* Agents\n* Toate\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Remote Debugger\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Team Agents\n* Team Explorer\n* Test Profeșsional\n* Tools for Office System 4.0 Runtime\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

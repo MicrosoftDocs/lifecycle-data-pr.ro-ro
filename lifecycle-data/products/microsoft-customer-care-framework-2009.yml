@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Customer Care Framework 2009
-  description: Microsoft Customer Care Framework 2009 urmează Politica privind ciclul de viață fix.
+  title: Componenta Microsoft Customer Care Framework 2009
+  description: Microsoft Customer Care Framework 2009 respectă Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834652"
-name: Microsoft Customer Care Framework 2009
+name: Componenta Microsoft Customer Care Framework 2009
 summary: >
-  Microsoft Customer Care Framework 2009 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Customer Care Framework 2009 respectă Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 
   > [!IMPORTANT]
 
-  > Suportul s-a terminat. A se vedea orientările privind migrația de mai jos.
+  > Suportul s-a încheiat. A se vedea orientările privind migrarea de mai jos.
 products:
 - customer-care-framework
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2008
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office PowerPoint 2007
-  description: Microsoft Office PowerPoint 2007 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Office PowerPoint 2007 respectă Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a5fabe576bb9e38f1f9ca7fd7fcdaed22819991
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834963"
 name: Microsoft Office PowerPoint 2007
 summary: >+
-  Microsoft Office PowerPoint 2007 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Office PowerPoint 2007 respectă Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Acasă și Student, Standard
+  Aceasta se aplică edițiilor următoare: Home and Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Acasă și student\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Ediții \n* Home and Student\n* Standard"

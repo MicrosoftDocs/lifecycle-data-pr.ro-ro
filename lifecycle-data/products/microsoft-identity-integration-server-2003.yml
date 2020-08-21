@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Identity Integration Server 2003
-  description: Microsoft Identity Integration Server 2003 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Identity Integration Server 2003 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: dbad234b5c3f1f121bc91d27feef671281cfd044
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834313"
 name: Microsoft Identity Integration Server 2003
-summary: "Microsoft Identity Integration Server 2003 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)\n\nAcest lucru se aplică următoarelor ediții: Enterprise\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. \n"
+summary: "Microsoft Identity Integration Server 2003 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\nAceasta se aplică edițiilor următoare: Enterprise\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. \n"
 products:
 - m365
 policyType: fixed
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/26/2003
   endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n* [Informații Windows Server](/windows-server/)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Intreprindere"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Informații despre Windows Server](/windows-server/)\n\n\n## <a name=\"editions\"></a>Ediții \n* Enterprise"

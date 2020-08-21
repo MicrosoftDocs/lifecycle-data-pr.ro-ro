@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded Standard 7
-  description: Windows Embedded Standard 7 urmează Politica privind ciclul de viață fix.
+  description: Windows Embedded Standard 7 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834510"
 name: Windows Embedded Standard 7
 summary: >+
-  Windows Embedded Standard 7 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows Embedded Standard 7 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Standard
+  Aceasta se aplică edițiilor următoare: Standard
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Legături \n* [* Programul extins de actualizare de securitate (ESU) - Actualizările de securitate extinse pentru anumite produse încorporate sunt disponibile prin intermediul producătorilor OEM](/lifecycle/faq/extended-security-updates)\n* [Orientări privind migrația](https://support.microsoft.com/help/4057281)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> \"*Actualizările de securitate extinse (ESU) sunt disponibile pentru Windows Embedded Standard 7 pentru până la trei ani suplimentari de la sfârșitul asistenței prin intermediul producătorilor OEM. Contactați partenerul Microsoft sau echipa de cont pentru a afla mai multe.\n\n## <a name=\"editions\"></a>Edițiile \n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [* Programul privind actualizările extinse de securitate (ESU) - Actualizările extinse de securitate pentru anumite produse Embedded sunt disponibile prin intermediul producătorilor OEM](/lifecycle/faq/extended-security-updates)\n* [Instrucțiuni pentru migrare](https://support.microsoft.com/help/4057281)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*Actualizări extinse de securitate (ESU) sunt disponibile pentru Windows Embedded Standard 7 timp de încă trei ani după data de sfârșit al perioadei de asistență prin intermediul producătorilor OEM. Contactați partenerul Microsoft sau echipa de cont pentru a afla mai multe.\n\n## <a name=\"editions\"></a>Ediții \n* Standard"

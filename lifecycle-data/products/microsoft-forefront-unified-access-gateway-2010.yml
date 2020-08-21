@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gateway de acces unificat Microsoft Forefront 2010
-  description: Microsoft Forefront Unified Access Gateway 2010 urmează Politica privind ciclul de viață fix.
+  title: Microsoft Forefront Unified Access Gateway 2010
+  description: Microsoft Forefront Unified Access Gateway 2010 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 250585910905b7c124d4f2ad3685d04e3bd64a03
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834633"
-name: Gateway de acces unificat Microsoft Forefront 2010
+name: Microsoft Forefront Unified Access Gateway 2010
 summary: >+
-  Microsoft Forefront Unified Access Gateway 2010 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Forefront Unified Access Gateway 2010 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/26/2010
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)"

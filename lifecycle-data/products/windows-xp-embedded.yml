@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows XP încorporat
-  description: Windows XP Embedded urmează Politica privind ciclul de viață fix.
+  title: Windows XP Embedded
+  description: Windows XP Embedded urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834141"
-name: Windows XP încorporat
+name: Windows XP Embedded
 summary: >
-  Windows XP Embedded urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows XP Embedded urmează Politica [fixă](/lifecycle/policies/fixed). privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Embedded
+  Aceasta se aplică edițiilor următoare: Embedded
 
 
   > [!IMPORTANT]
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Legături \n* [Suport Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Încorporat"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Asistență pentru Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Ediții \n* Embedded"

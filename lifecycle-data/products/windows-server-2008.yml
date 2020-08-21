@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2008
-  description: Windows Server 2008 urmează Politica privind ciclul de viață fix.
+  description: Windows Server 2008 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834865"
 name: Windows Server 2008
 summary: >
-  Windows Server 2008 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows Server 2008 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Datacenter, Datacenter fără Hyper-V, Enterprise, Enterprise fără Hyper-V, pentru Sisteme Automate, Foundation, Standard, Standard fără Hyper-V, Web
+  Aceasta se aplică edițiilor următoare: Datacenter, Datacenter fără Hyper-V, Enterprise, Enterprise fără Hyper-V, for Itanium-Based Systems, Foundation, Standard, Standard fără Hyper-V, Web
 
 
   > [!IMPORTANT]
 
-  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos.
+  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrarea de mai jos.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://aka.ms/AA1ovn4)\n* [Informații upgrade server](/windows-server/upgrade/upgrade-overview)\n* [Program extins de actualizare de securitate (ESU)](/lifecycle/faq/extended-security-updates)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Actualizările de securitate extinse (ESU) sunt disponibile prin programe specifice de licențiere în volum pentru edițiile Datacenter, Standard, Enterprise și Embedded ale edițiilor acestui produs, timp de până la trei ani în plus după sfârșitul asistenței. Contactați partenerul Microsoft sau echipa de cont pentru a afla mai multe. \n\nData lansării-------------------------------Începeția---- Data de sfârșit\n\nActualizare extinsă de securitate Anul 3---01/11/2022---01/10/2023\n\nActualizare extinsă de securitate Anul 2---01/12/2021---01/11/2022\n\nAn de actualizare de securitate extinsă 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation lansat pe 21 mai 2009\n\n## <a name=\"editions\"></a>Edițiile \n* Datacenter\n* Centru de date fără Hyper-V\n* Intreprindere\n* Întreprindere fără Hyper-V\n* pentru sistemele automate\n* Fundaţia\n* Standard\n* Standard fără Hyper-V\n* Web"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://aka.ms/AA1ovn4)\n* [Informații upgrade server](/windows-server/upgrade/upgrade-overview)\n* [Programul privind actualizările extinse de securitate (ESU)](/lifecycle/faq/extended-security-updates)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Actualizările extinse de securitate (ESU) sunt disponibile prin programe specifice de licențiere de volum pentru edițiile Datacenter, Standard, Enterprise și Embedded ale acestui produs, timp de până la trei ani suplimentari de la data de sfârșit al perioadei de asistență. Contactați partenerul Microsoft sau echipa de cont pentru a afla mai multe. \n\nData lansării-------------------------------Data de început---- Data de sfârșit\n\nActualizare extinsă de securitate Anul 3---11/01/2022---10/01/2023\n\nActualizare extinsă de securitate Anul 2---12/01/2021---11/01/2022\n\nActualizare extinsă de securitate Anul 1---14/01/2020---12/01/2021\n> [!NOTE]\n> Windows Server 2008 Foundation s-a lansat pe 21 mai 2009\n\n## <a name=\"editions\"></a>Ediții \n* Datacenter\n* Datacenter fără Hyper-V\n* Enterprise\n* Enterprise fără Hyper-V\n* for Itanium-Based Systems\n* Foundation\n* Standard\n* Standard fără Hyper-V\n* Web"
