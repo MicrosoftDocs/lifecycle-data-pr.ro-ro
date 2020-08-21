@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server IoT 2019
-  description: Windows Server IoT 2019 urmează Politica privind ciclul de viață fix.
+  description: Windows Server IoT 2019 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871599"
 name: Windows Server IoT 2019
 summary: >+
-  Windows Server IoT 2019 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows Server IoT 2019 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Datacenter, Essentials, Standard,
+  Aceasta se aplică edițiilor următoare: Datacenter, Essentials, Standard, Telecommunications
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Legături \n* [Întrebări frecvente despre ciclul de viață - produse Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Toate versiunile de Windows Server IoT 2019 urmează ciclul de viață Windows Server 2019.\n\n## <a name=\"editions\"></a>Edițiile \n* Datacenter\n* Cunoștințe de bază\n* Standard\n* Telecomunicaţii"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Întrebări frecvente despre ciclul de viață - Produse Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Toate versiunile Windows Server IoT 2019 urmează ciclul de viață Windows Server 2019.\n\n## <a name=\"editions\"></a>Ediții \n* Datacenter\n* Essentials\n* Standard\n* Telecommunications"

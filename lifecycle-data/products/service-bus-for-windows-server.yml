@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Magistrală de service pentru Windows Server
-  description: Magistrala de service pentru Windows Server urmează Politica privind ciclul de viață al componentelor.
+  title: Magistrală de servicii pentru Windows Server
+  description: Service Bus for Windows Server urmează Politica privind ciclul de viață al componentelor.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861003"
-name: Magistrală de service pentru Windows Server
+name: Magistrală de servicii pentru Windows Server
 summary: >
-  Magistrala de service pentru Windows Server urmează Politica privind ciclul de viață al [componentelor.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Service Bus for Windows Server urmează Politica privind ciclul de viață al [componentelor](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 
   > [!IMPORTANT]
 
-  > Când magistrala de servicii 1.1 este o componentă a SharePoint Server 2016 sau SharePoint Server 2013, aceasta va fi acceptată în conformitate cu datele de sfârșit de asistență ale versiunii respective SharePoint Server.
+  > Când Service Bus 1.1 este o componentă a SharePoint Server 2016 sau SharePoint Server 2013, aceasta beneficiază de asistență în conformitate cu datele de sfârșit al perioadei de asistență ale versiunii respective SharePoint Server.
 products:
 - windows
 policyType: component

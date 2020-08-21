@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office pentru Mac 2011
-  description: Microsoft Office pentru Mac 2011 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Office pentru Mac 2011 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860895"
 name: Microsoft Office pentru Mac 2011
 summary: >+
-  Microsoft Office pentru Mac 2011 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Office pentru Mac 2011 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
+  Aceasta se aplică edițiilor următoare: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Suportul mainstream pentru Microsoft Office pentru Mac 2011 este extins, așa se arată, pentru a oferi tuturor clienților cronologia standard de tranziție a ciclului de viață.\n\n## <a name=\"editions\"></a>Edițiile \n* Academice\n* Acasă și de afaceri\n* Programul de utilizare a locuințelor pentru acasă și pentru afaceri\n* Acasă și student\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Suportul mainstream pentru Microsoft Office pentru Mac 2011 este extins, așa cum se arată, pentru a oferi tuturor clienților cronologia standard de tranziție a ciclului de viață.\n\n## <a name=\"editions\"></a>Ediții \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Small Business Server 2011
-  description: Windows Small Business Server 2011 urmează Politica privind ciclul de viață fix.
+  title: 'Windows Small Business Server 2011:'
+  description: Windows Small Business Server 2011 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860993"
-name: Windows Small Business Server 2011
+name: 'Windows Small Business Server 2011:'
 summary: >
-  Windows Small Business Server 2011 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows Small Business Server 2011 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Essentials, Premium Add-On, Standard
+  Aceasta se aplică edițiilor următoare: Essentials, Premium Add-On, Standard
 
 
   > [!IMPORTANT]
 
-  > Data de asistență pentru acest pachet de produse este determinată de ciclurile de viață ale produsului component individual. Vă rugăm să revizuiți ciclul de viață al fiecărui produs component pentru a determina durata asistenței.
+  > Data de asistență pentru acest pachet de produse este determinată de ciclurile de viață ale componentelor individuale ale produselor. Vă rugăm să consultați ciclul de viață al produsului individual al componentei pentru a determina durata de asistență a acestuia.
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/09/2011
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://aka.ms/AA1ovn4)\n* [Migrarea Windows Small Business Server 2011 Standard la Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Cunoștințe de bază\n* Program de completare premium\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://aka.ms/AA1ovn4)\n* [Migrarea Windows Small Business Server 2011 Standard la Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Ediții \n* Essentials\n* Premium Add-On\n* Standard"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2015
-  description: Visual Studio 2015 urmează Politica privind ciclul de viață fix.
+  description: Visual Studio 2015 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861045"
 name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Visual Studio 2015 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru este valabil pentru următoarele ediții: Agenți, Comunitate, Enterprise, Express pentru Web, Express pentru Windows 10, Express pentru Windows Desktop, Modelare SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Izolat), Test Professional, Visual C++ Redistribuble
+  Aceasta se aplică edițiilor următoare: Agents, Community, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre service](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Agenţi\n* Comunity\n* Intreprindere\n* Express pentru Web\n* Express pentru Windows 10\n* Express pentru Windows Desktop\n* Modelare SDK\n* Profesionale\n* Gestionare lansare\n* Instrumente la distanță\n* Sdk\n* Shell (Integrat)\n* Coajă (izolată)\n* Test profesional\n* Visual C++ Redistribubil"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre servicii](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Ediții \n* Agents\n* Community\n* Enterprise\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Modeling SDK\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Test Profeșsional\n* Visual C++ Redistributable"

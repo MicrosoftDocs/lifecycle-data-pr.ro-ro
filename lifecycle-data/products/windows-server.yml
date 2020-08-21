@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server
-  description: Windows Server urmează Politica privind ciclul de viață modern.
+  description: Windows Server urmează Politica modernă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871703"
 name: Windows Server
 summary: >+
-  Windows Server urmează Politica privind ciclul de viață [modern.](/lifecycle/policies/modern)
+  Windows Server urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Datacenter, Standard
+  Aceasta se aplică edițiilor următoare: Datacenter, Standard
 
 products:
 - windows
@@ -40,4 +40,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Legături \n* [Canale de service Windows Server: LTSC și SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Întrebări frecvente despre ciclul de viață - produse Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows 10 October Update (versiunea 1809) a fost relansat pe 13 noiembrie 2018. Datele de asistență au fost ajustate în consecință.\n\n## <a name=\"editions\"></a>Edițiile \n* Datacenter\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Canale de servicii Windows Server: LTSC și SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Întrebări frecvente despre ciclul de viață - Produse Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Actualizarea din octombrie a Windows 10 (versiunea 1809) a fost relansată pe 13 noiembrie 2018. Datele privind asistența au fost modificate în mod corespunzător.\n\n## <a name=\"editions\"></a>Ediții \n* Datacenter\n* Standard"

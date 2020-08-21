@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2013
-  description: Visual Studio Team Foundation Server 2013 urmează Politica privind ciclul de viață fix.
+  description: Visual Studio Team Foundation Server 2013 respectă Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861176"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
-  Visual Studio Team Foundation Server 2013 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Visual Studio Team Foundation Server 2013 respectă Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Toate, Managementul lansărilor
+  Aceasta se aplică edițiilor următoare: Toate, Release Management
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre produs](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Informații despre service](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Politică Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Pentru Release Management Server pentru TFS 2013, Actualizarea 4 va fi acceptată conform instrucțiunilor de politică până la 4/9/2024.\n\n## <a name=\"editions\"></a>Edițiile \n* Toate\n* Gestionare lansare"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre produs](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Informații despre servicii](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Pentru Release Management Server pentru TFS 2013, actualizarea 4 va beneficia de asistență conform instrucțiunilor de politică până la 9/4/2024.\n\n## <a name=\"editions\"></a>Ediții \n* Toate\n* Release Management"

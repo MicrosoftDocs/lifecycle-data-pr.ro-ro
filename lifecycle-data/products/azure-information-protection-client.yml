@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860784"
 name: Client Azure Information Protection
 summary: >+
-  Clientul Azure Information Protection urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
+  Clientul Azure Information Protection urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre service](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Orientări privind migrația](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Pentru a oferi o experiență unificată și raționalizată a clienților, clientul Azure Information Protection (clasic) și Label Management din portalul Azure sunt perimate începând cu 31 martie 2021. Acest interval de timp permite tuturor clienților actuali Azure Information Protection să treacă la soluția noastră unificată de etichetare utilizând platforma de etichetare unificată Microsoft Information Protection."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre servicii](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Instrucțiuni pentru migrare](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Pentru a oferi o experiență unificată și optimizată a clienților, clientul Azure Information Protection (clasic) și Label Management din portalul Azure sunt perimate începând cu 31 martie 2021. Acest interval de timp permite tuturor clienților actuali Azure Information Protection să treacă la soluția noastră unificată de etichetare utilizând platforma Microsoft Information Protection Unified Labeling."
