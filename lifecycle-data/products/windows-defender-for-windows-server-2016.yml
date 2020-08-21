@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a115c31e3562f17b979200b8da839f873470f6df
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834523"
 name: Windows Defender pentru Windows Server 2016
 summary: >+
-  Windows Defender pentru Windows Server 2016 urmează Politica privind ciclul de viață al [componentelor.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Windows Defender pentru Windows Server 2016 urmează Politica privind ciclul de viață al [componentelor](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Legături \n* [Windows Server 2016](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> Această componentă urmează ciclul de viață al produsului său părinte, Windows Server 2016."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Windows Server 2016](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> Această componentă are același ciclu de viață precum produsul părinte, Windows Server 2016."

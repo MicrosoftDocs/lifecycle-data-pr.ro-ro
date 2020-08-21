@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2005
-  description: Microsoft SQL Server 2005 urmează Politica privind ciclul de viață fix.
+  description: Microsoft SQL Server 2005 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834185"
 name: Microsoft SQL Server 2005
 summary: >
-  Microsoft SQL Server 2005 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft SQL Server 2005 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru este valabil pentru următoarele ediții: Compact, Developer, Embedded, Enterprise, Enterprise for Automateum-based Systems, Enterprise X64, Express with Advanced Services, Standard, Standard for Automateum based Systems, Standard X64, Workgroup
+  Aceasta se aplică edițiilor următoare: Compact, Developer, Embedded, Enterprise, Enterprise for Itanium-based Systems, Enterprise X64, Express, Express with Advanced Services, Standard, Standard for Itanium-based Systems, Standard X64, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos.
+  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrarea de mai jos.
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition lansat 19 februarie 2007.\n\n## <a name=\"editions\"></a>Edițiile \n* Compact\n* Dezvoltator\n* Încorporat\n* Intreprindere\n* Enterprise pentru sisteme automate\n* Întreprindere X64\n* Express\n* Express cu servicii avansate\n* Standard\n* Standard pentru sistemele pe bază de Teoria\n* Standard X64\n* Grup"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition s-a lansat pe 19 februarie 2007.\n\n## <a name=\"editions\"></a>Ediții \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Express\n* Express with Advanced Services\n* Standard\n* Standard for Itanium-based Systems\n* Standard X64\n* Workgroup"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft ProClarity 6.3
-  description: Microsoft ProClarity 6.3 urmează Politica privind ciclul de viață fix.
+  description: Microsoft ProClarity 6.3 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 317529e1a142906f2aebd67ada9a28a32a680b2a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834041"
 name: Microsoft ProClarity 6.3
 summary: >+
-  Microsoft ProClarity 6.3 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft ProClarity 6.3 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru este valabil pentru următoarele ediții: Analytics Server, Desktop Professional, SharePoint Viewer
+  Aceasta se aplică edițiilor următoare: Analytics Server, Desktop Professional, SharePoint Viewer
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Analytics Server\n* Desktop Profesional\n* Vizualizator SharePoint"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediții \n* Analytics Server\n* Desktop Professional\n* SharePoint Viewer"

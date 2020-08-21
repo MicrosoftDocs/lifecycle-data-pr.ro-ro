@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2010
-  description: Microsoft Office 2010 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Office 2010 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834299"
 name: Microsoft Office 2010
 summary: >+
-  Microsoft Office 2010 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Office 2010 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: eAcademy, Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
+  Aceasta se aplică următoarelor ediții: eAcademy, Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Legături \n* [Foaia de parcurs de încheiere a asistenței Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* eAcademy\n* Acasă și de afaceri\n* Acasă și student\n* Personale\n* Profesionale\n* Academic profesionist\n* Professional Plus\n* Programul professional plus de utilizare la domiciliu\n* Standard\n* Starter"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Foaia de parcurs privind data de sfârșit al perioadei de asistență pentru Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediții \n* eAcademy\n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Starter"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 pentru desktop-uri Windows
-  description: Microsoft Application Virtualization Hosting 4.6 pentru Desktop-uri Windows urmează Politica privind ciclul de viață fix.
+  title: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
+  description: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834708"
-name: Microsoft Application Virtualization Hosting 4.6 pentru desktop-uri Windows
+name: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
 summary: >+
-  Microsoft Application Virtualization Hosting 4.6 pentru Desktop-uri Windows urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Application Virtualization Hosting 4.6 for Windows Desktops urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru este valabil pentru următoarele ediții: pentru Desktop-uri Windows
+  Acest lucru se aplică la următoarele ediții: for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre produs și migrare](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Deoarece clientul App-V 4.6 utilizează serverul App-V 4.5, serverul App-V 4.5 va continua să fie acceptat în conformitate cu datele ciclului de viață al Aplicației-V 4.6 atunci când este utilizat cu clientul App-V 4.6 acceptat.\n\n## <a name=\"editions\"></a>Edițiile \n* pentru desktopuri Windows"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre produs și migrare](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Deoarece clientul App-V 4.6 utilizează serverul App-V 4.5, serverul App-V 4.5 va continua să beneficieze de asistență în conformitate cu datele ciclului de viață al App-V 4.6 atunci când este utilizat cu clientul App-V 4.6 acceptat.\n\n## <a name=\"editions\"></a>Ediții \n* for Windows Desktops"

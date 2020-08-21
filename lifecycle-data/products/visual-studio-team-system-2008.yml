@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team System 2008
-  description: Visual Studio Team System 2008 urmează Politica privind ciclul de viață fix.
+  description: Visual Studio Team System 2008 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834525"
 name: Visual Studio Team System 2008
 summary: >
-  Visual Studio Team System 2008 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Visual Studio Team System 2008 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Toate, Arhitectură, Bază de date, Dezvoltare, Explorator echipă, Agent de încărcare pentru testarea echipei
+  Aceasta se aplică edițiilor următoare: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent
 
 
   > [!IMPORTANT]
 
-  > Suportul s-a terminat. A se vedea orientările privind migrația de mai jos.
+  > Suportul s-a încheiat. A se vedea orientările privind migrarea de mai jos.
 products:
 - vs
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Orientări privind migrația](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Toate\n* Arhitectură\n* Date\n* Dezvoltare\n* Explorator echipă\n* Agent de încărcare de testare echipă"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Instrucțiuni pentru migrare](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediții \n* Toate\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent"

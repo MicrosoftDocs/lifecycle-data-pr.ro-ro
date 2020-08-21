@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (pentru site-uri Internet)
-  description: Microsoft SharePoint 2010 (pentru site-uri Internet) urmează Politica privind ciclul de viață fix.
+  title: Microsoft SharePoint 2010 (for Internet Sites)
+  description: Microsoft SharePoint 2010 (for Internet Sites) urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834601"
-name: Microsoft SharePoint 2010 (pentru site-uri Internet)
+name: Microsoft SharePoint 2010 (for Internet Sites)
 summary: >+
-  Microsoft SharePoint 2010 (pentru site-uri Internet) urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft SharePoint 2010 (for Internet Sites) urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: pentru Internet Sites Enterprise, pentru Internet Sites Standard
+  Acest lucru se aplică următoarelor ediții: for Internet Sites Enterprise, for Internet Sites Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Legături \n* [Documentația produsului](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentația pentru dezvoltatori](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Data de încheiere a perioadei de asistență a acestui produs a fost prelungită de la 13 octombrie 2020 la 13 aprilie 2021.\n\n## <a name=\"editions\"></a>Edițiile \n* pentru Internet Sites Enterprise\n* pentru site-uri Internet Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Documentația produsului](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentația pentru dezvoltatori](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Data de sfârșit al perioadei de asistență a acestui produs a fost prelungită din 13 octombrie 2020 până în 13 aprilie 2021.\n\n## <a name=\"editions\"></a>Ediții \n* for Internet Sites Enterprise\n* for Internet Sites Standard"

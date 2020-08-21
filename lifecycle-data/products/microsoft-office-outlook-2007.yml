@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Outlook 2007
-  description: Microsoft Office Outlook 2007 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Office Outlook 2007 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 055e54e56049aef38f71fd906c5af6438674032a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834969"
 name: Microsoft Office Outlook 2007
 summary: >+
-  Microsoft Office Outlook 2007 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Office Outlook 2007 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru este valabil pentru următoarele ediții: Standard, cu Business Contact Manager, cu Interconnect
+  Aceasta se aplică edițiilor următoare: Standard, cu Business Contact Manager, cu Interconnect
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Standard\n* cu Business Contact Manager\n* cu Interconnect"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Ediții \n* Standard\n* cu Business Contact Manager\n* cu Interconnect"

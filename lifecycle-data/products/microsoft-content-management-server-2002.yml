@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Content Management Server 2002
-  description: Microsoft Content Management Server 2002 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Content Management Server 2002 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 37e472e998f4c244d30d4c7b372ab38699323e23
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834657"
 name: Microsoft Content Management Server 2002
 summary: >+
-  Microsoft Content Management Server 2002 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Content Management Server 2002 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Enterprise, Standard
+  Aceasta se aplică edițiilor următoare: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -36,4 +36,4 @@ releases:
 - version: Service Pack 1
   startDate: 09/16/2003
   endDate: 07/11/2006
-content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ediția Enterprise a acestui produs are o dată de început de 7 noiembrie 2002. \n\n## <a name=\"editions\"></a>Edițiile \n* Intreprindere\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ediția Enterprise a acestui produs are data de început pe 7 noiembrie 2002. \n\n## <a name=\"editions\"></a>Ediții \n* Enterprise\n* Standard"

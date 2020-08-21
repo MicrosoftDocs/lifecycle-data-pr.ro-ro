@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualizare Desktop Microsoft Enterprise 1.0
-  description: Microsoft Enterprise Desktop Virtualization 1.0 urmează Politica privind ciclul de viață fix.
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: Microsoft Enterprise Desktop Virtualization 1.0 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834645"
-name: Virtualizare Desktop Microsoft Enterprise 1.0
+name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  Microsoft Enterprise Desktop Virtualization 1.0 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Enterprise Desktop Virtualization 1.0 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Enterprise
+  Aceasta se aplică edițiilor următoare: Enterprise
 
 
   > [!IMPORTANT]
 
-  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos.
+  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrarea de mai jos.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Intreprindere"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediții \n* Enterprise"
