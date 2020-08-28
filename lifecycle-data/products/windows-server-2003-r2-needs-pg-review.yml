@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2003 R2 (are nevoie de revizuire PG)
+  description: Windows Server 2003 R2 respectă Politica fixă privind ciclul de viață.
+  ms.date: 08/13/2020
+  ms.openlocfilehash: 8678c0ae8e2f3fa1a94459baad951411c5f10fd1
+  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.translationtype: HT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905952"
+name: Windows Server 2003 R2 (are nevoie de revizuire PG)
+summary: >+
+  Windows Server 2003 R2 respectă Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
+
+
+  Aceasta se aplică edițiilor următoare: Datacenter, Datacenter (x86 pe 32 de biți), Datacenter (x64), Enterprise (x86 pe 32 de biți), Enterprise X64, Standard (x86 pe 32 de biți), Standard X64
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/05/2006
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 03/05/2006
+  endDate: 04/14/2009
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Căi acceptate pentru upgrade-ul de la Windows Server 2003 la Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Pregătirea computerelor Windows Server 2003 pentru migrare](/azure/migrate/prepare-windows-server-2003-migration)\n\n\n## <a name=\"editions\"></a>Ediții \n* Datacenter\n* Datacenter (x86 pe 32 de biți)\n* Datacenter (x64)\n* Enterprise (x86 pe 32 de biți)\n* Enterprise X64\n* Standard (x86 pe 32 de biți)\n* Standard X64"

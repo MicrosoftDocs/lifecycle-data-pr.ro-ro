@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Windows Server 2003 '
+  description: Windows Server 2003 urmează Politica fixă privind ciclul de viață.
+  ms.date: 08/13/2020
+  ms.openlocfilehash: 3558caf5ca1df8b303629236184460220b5a76e5
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: HT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "894147"
+name: 'Windows Server 2003 '
+summary: >+
+  Windows Server 2003 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
+
+
+  Aceasta se aplică edițiilor următoare: Datacenter (x86 pe 32 de biți), Datacenter (x64), Datacenter for Itanium-Based Systems, Enterprise (x86 pe 32 de biți), Enterprise for Itanium-based Systems, Enterprise X64, Standard (x86 pe 32 de biți), Web
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/28/2003
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Service Pack 1
+  startDate: 03/30/2005
+  endDate: 04/14/2009
+- version: Original Release
+  startDate: 05/28/2003
+  endDate: 04/10/2007
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Pregătirea computerelor Windows Server 2003 pentru migrare](/azure/migrate/prepare-windows-server-2003-migration)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Căi acceptate pentru upgrade-ul de la Windows Server 2003 la Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n\n> [!NOTE]\n> Sistemele de tip Itanium au ca dată de început 19 iunie 2003.\n\n## <a name=\"editions\"></a>Ediții \n* Datacenter (x86 pe 32 de biți)\n* Datacenter (x64)\n* Datacenter for Itanium-Based Systems\n* Enterprise (x86 pe 32 de biți)\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Standard (x86 pe 32 de biți)\n* Web"
