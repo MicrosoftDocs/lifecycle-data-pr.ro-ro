@@ -2,19 +2,19 @@
 metadata:
   title: Windows XP
   description: Windows XP urmează Politica fixă privind ciclul de viață.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: b87864c5f60526582efd3d8d986ce63c0d203e39
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834140"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893770"
 name: Windows XP
 summary: >
   Windows XP urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Aceasta se aplică edițiilor următoare: Home, Professional, Professional for Embedded Systems, Starter
+  Aceasta se aplică edițiilor următoare: Home, Professional, Professional for Embedded Systems, Professional x64, Starter
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediții \n* Home\n* Professional\n* Professional for Embedded Systems\n* Starter"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Data de început pentru Microsoft Windows XP Professional x64 Edition a fost 24 aprilie 2005.\n\n## <a name=\"editions\"></a>Ediții \n* Home\n* Professional\n* Professional for Embedded Systems\n* Profesional x64\n* Starter"
