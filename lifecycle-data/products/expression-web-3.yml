@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Expresie 3
-  description: Expresia 3 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Expresia 3 urmează politica ciclului de viață fix.
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834074"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930763"
 name: Expresie 3
 summary: >+
-  Expresia 3 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Expresia 3 urmează politica ciclului de viață [fix](/lifecycle/policies/fixed) .
 
 
-  Acest lucru se aplică următoarelor ediții: Design, Encoder, Studio, Web
+  Acest lucru se aplică la următoarele ediții: proiectare, Encoder, Studio, web
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Data de început pentru Expression Design 3 este 19 noiembrie 2009. \n\n## <a name=\"editions\"></a>Edițiile \n* Design\n* Encoder\n* Studio\n* Web"
+content: "\n\n> [!NOTE]\n> Data de început pentru Expression design 3 este 19 noiembrie 2009. \n\n## <a name=\"editions\"></a>Ediții \n* Design\n* Encoder\n* Studio\n* Web"

@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2016
-  description: Microsoft Office 2016 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0862856c981f0887a99cd499275edcda6f18533b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Microsoft Office 2016 urmează politica privind ciclul de viață fix.
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
+  ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "861238"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930504"
 name: Microsoft Office 2016
 summary: >+
-  Microsoft Office 2016 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Office 2016 urmează politica privind ciclul de viață [fix](/lifecycle/policies/fixed) .
 
 
-  Acest lucru se aplică următoarelor ediții: Acasă și business, Acasă și Student, Personal, Profesional, Professional Plus, Standard
+  Acest lucru se aplică următoarelor ediții: acasă și pentru firme, pentru acasă și pentru școală, personal, profesional, Professional plus, standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Edițiile \n* Acasă și de afaceri\n* Acasă și student\n* Personale\n* Profesionale\n* Professional Plus\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Ediții \n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Plus\n* Standard"
