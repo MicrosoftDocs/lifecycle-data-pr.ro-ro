@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Identity Integration Server 2003
   description: Microsoft Identity Integration Server 2003 urmează Politica fixă privind ciclul de viață.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dbad234b5c3f1f121bc91d27feef671281cfd044
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: a1ef4c754fdb32948d2e6e965d554076955dd544
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834313"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933538"
 name: Microsoft Identity Integration Server 2003
 summary: "Microsoft Identity Integration Server 2003 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\nAceasta se aplică edițiilor următoare: Enterprise\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. \n"
 products:

@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serverul BizTalk 2016
-  description: BizTalk Server 2016 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0cce3539c4760d2472891e36f8edfa267a44c7ac
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: BizTalk Server 2016
+  description: BizTalk Server 2016 urmează politica de ciclu de viață fixă.
+  ms.date: 09/01/2020
+  keywords: Branch,Developer,Enterprise,Standard
+  ms.openlocfilehash: 1442cb807ade39555954dc0f2fba82434027cb2c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860782"
-name: Serverul BizTalk 2016
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932169"
+name: BizTalk Server 2016
 summary: >+
-  BizTalk Server 2016 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  BizTalk Server 2016 urmează politica de ciclu de viață [fixă](/lifecycle/policies/fixed) .
 
 
-  Acest lucru se aplică următoarelor ediții: Sucursală, Dezvoltator, Întreprindere,
+  Aceasta se aplică edițiilor următoare: Branch, Developer, Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2016
   endDate: 01/11/2027
-content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre produs](/biztalk/install-and-config-guides/biztalk-server-2016-what-s-new-and-installation)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Ramură\n* Dezvoltator\n* Intreprindere\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre produs](/biztalk/install-and-config-guides/biztalk-server-2016-what-s-new-and-installation)\n\n\n## <a name=\"editions\"></a>Ediții \n* Branch\n* Developer\n* Enterprise\n* Standard"
