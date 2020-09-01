@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualizare Desktop Microsoft Enterprise 2.0
-  description: Microsoft Enterprise Desktop Virtualization 2.0 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 003a5a0de6b6aab0b3422c53f305f9a445cc76e9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Microsoft Enterprise Desktop Virtualization 2,0
+  description: Microsoft Enterprise Desktop Virtualization 2,0 urmează politica de ciclu de viață fixă.
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "861114"
-name: Virtualizare Desktop Microsoft Enterprise 2.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933908"
+name: Microsoft Enterprise Desktop Virtualization 2,0
 summary: >+
-  Microsoft Enterprise Desktop Virtualization 2.0 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Enterprise Desktop Virtualization 2,0 urmează politica de ciclu de viață [fixă](/lifecycle/policies/fixed) .
 
 
-  Acest lucru se aplică următoarelor ediții: Enterprise
+  Aceasta se aplică edițiilor următoare: Enterprise
 
 products:
 - windows
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/10/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Edițiile \n* Intreprindere"
+content: "\n\n\n## <a name=\"editions\"></a>Ediții \n* Enterprise"
