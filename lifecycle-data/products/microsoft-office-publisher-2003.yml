@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Publisher 2003
-  description: Microsoft Office Publisher 2003 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Office Publisher 2003 urmează politica de ciclu de viață fixă.
+  ms.date: 09/01/2020
+  keywords: Standard,with Digital Imaging
+  ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834616"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930356"
 name: Microsoft Office Publisher 2003
 summary: >+
-  Microsoft Office Publisher 2003 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Office Publisher 2003 urmează politica de ciclu de viață [fixă](/lifecycle/policies/fixed) .
 
 
-  Acest lucru este valabil pentru următoarele ediții: Standard, cu Digital Imaging
+  Acest lucru se aplică următoarelor ediții: standard, cu imagini digitale
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Edițiile \n* Standard\n* cu Digital Imaging"
+content: "\n\n\n## <a name=\"editions\"></a>Ediții \n* Standard\n* cu imagini digitale"
