@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2010
-  description: Visio 2010 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: bf96814151cea0f8a6d28a13d6b30e3de6c379a0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Visio 2010 urmează politica privind ciclul de viață fix.
+  ms.date: 09/01/2020
+  keywords: Premium,Professional,Standard
+  ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834161"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937867"
 name: Visio 2010
 summary: >+
-  Visio 2010 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Visio 2010 urmează politica privind ciclul de viață [fix](/lifecycle/policies/fixed) .
 
 
-  Acest lucru este valabil pentru următoarele ediții: Premium, Professional, Standard
+  Acest lucru se aplică următoarelor ediții: Premium, Professional, standard
 
 products:
 - office
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/DeployOffice/office-2010-end-support-roadmap)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Premium\n* Profesionale\n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/DeployOffice/office-2010-end-support-roadmap)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediții \n* Premium\n* Professional\n* Standard"
