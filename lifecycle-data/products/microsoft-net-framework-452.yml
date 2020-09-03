@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.5.2
-  description: Microsoft .NET Framework 4.5.2 urmează Politica privind ciclul de viață al componentelor.
+  description: Microsoft .NET Framework 4.5.2 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: c893ea681fc98a81689a258a44b5b320b82b2582
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861240"
 name: Microsoft .NET Framework 4.5.2
 summary: >+
-  Microsoft .NET Framework 4.5.2 urmează Politica privind ciclul de viață al [componentelor.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft .NET Framework 4.5.2 urmează Politica [fixă](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) privind ciclul de viață.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/05/2014
-content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre produs](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-452)\n* [Întrebări frecvente despre ciclul de viață al cadrului .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework este o componentă a sistemului de operare Windows. Componentele beneficiază de același suport ca și produsul sau platforma lor părinte."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre produs](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-452)\n* [Întrebări frecvente despre ciclul de viață al componentei .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework este o componentă a sistemului de operare Windows. Componentele beneficiază de același nivel de asistență precum produsul sau platforma părinte."

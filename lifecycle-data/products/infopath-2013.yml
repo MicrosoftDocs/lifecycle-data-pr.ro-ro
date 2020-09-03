@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Infopath 2013
-  description: Infopath 2013 urmează Politica privind ciclul de viață fix.
+  title: InfoPath 2013
+  description: InfoPath 2013 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 69bc8811a52c75cb58357ad4e0213f28a1001cae
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861023"
-name: Infopath 2013
+name: InfoPath 2013
 summary: >+
-  Infopath 2013 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  InfoPath 2013 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Standard
+  Aceasta se aplică edițiilor următoare: Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Legături \n* [Detalii de asistență](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Suportul pentru Microsoft InfoPath 2013 este extins așa se arată pentru a asigura compatibilitatea cu SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Edițiile \n* Standard"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Detalii de asistență](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Suportul pentru Microsoft InfoPath 2013 este extins așa cum se arată pentru a asigura compatibilitatea cu SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Ediții \n* Standard"

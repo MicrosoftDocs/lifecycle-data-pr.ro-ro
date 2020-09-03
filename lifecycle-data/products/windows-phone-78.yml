@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Phone 7.8
-  description: Windows Phone 7.8 urmează Politica privind ciclul de viață fix.
+  description: Windows Phone 7.8 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861258"
 name: Windows Phone 7.8
 summary: >
-  Windows Phone 7.8 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows Phone 7.8 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Microsoft va pune la dispoziție actualizări pentru sistemul de operare de pe telefon, inclusiv actualizări de securitate, pentru o perioadă de 18 luni de la data de începere a ciclului de viață. Distribuirea actualizărilor poate fi controlată de operatorul de telefonie mobilă sau de producătorul telefonului de la care ați achiziționat telefonul. Disponibilitatea actualizărilor va varia, de asemenea, în funcție de țară, regiune și capacitățile hardware."
+content: "\n\n> [!NOTE]\n> Microsoft va pune la dispoziție actualizări pentru sistemul de operare, inclusiv actualizări de securitate, timp de 18 de luni de la data de început al ciclului de viață. Distribuirea actualizărilor poate fi controlată de operatorul de telefonie mobilă sau de producătorul telefonului de la care ați achiziționat telefonul. Disponibilitatea actualizărilor va varia, de asemenea, în funcție de țară, de regiune și de capacitățile hardware."
