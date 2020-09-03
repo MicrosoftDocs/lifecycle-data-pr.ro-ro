@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows SharePoint Services 2.0
-  description: Microsoft Windows SharePoint Services 2.0 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Windows SharePoint Services 2.0 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3293736b7dd1f77d735150f0c004daf5840d0be0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834563"
 name: Microsoft Windows SharePoint Services 2.0
-summary: "Microsoft Windows SharePoint Services 2.0 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> Suportul s-a terminat. \n"
+summary: "Microsoft Windows SharePoint Services 2.0 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\n\n> [!IMPORTANT]\n> Suportul s-a încheiat. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/03/2003
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Legături \n* [Documentația pentru dezvoltatori Windows SharePoint Services 2.0](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))\n* [Documentația produsului Windows SharePoint Services 2.0](/previous-versions/tn-archive/cc288501(v=office.12))"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Documentația dezvoltatorului Windows SharePoint Services 2.0](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))\n* [Documentația produsului Windows SharePoint Services 2.0](/previous-versions/tn-archive/cc288501(v=office.12))"

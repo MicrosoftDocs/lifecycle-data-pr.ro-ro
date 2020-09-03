@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Virtual Machine Manager 2007
-  description: Microsoft System Center Virtual Machine Manager 2007 urmează Politica privind ciclul de viață fix.
+  description: Microsoft System Center Virtual Machine Manager 2007 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: f56ee87e6d98efe5304c881cf8adecfaa3e103d2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834579"
 name: Microsoft System Center Virtual Machine Manager 2007
 summary: >
-  Microsoft System Center Virtual Machine Manager 2007 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft System Center Virtual Machine Manager 2007 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 
   > [!IMPORTANT]
 
-  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos.
+  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrarea de mai jos.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://blogs.technet.microsoft.com/scvmm/2017/01/10/system-center-virtual-machine-manager-2007-version-nearing-end-of-support/)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://blogs.technet.microsoft.com/scvmm/2017/01/10/system-center-virtual-machine-manager-2007-version-nearing-end-of-support/)"
