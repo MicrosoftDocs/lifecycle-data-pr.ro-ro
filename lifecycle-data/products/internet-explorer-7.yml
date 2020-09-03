@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834730"
 name: Internet Explorer 7
 summary: >+
-  Internet Explorer 7 urmează Politica privind ciclul de viață al [componentelor.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Windows 7 urmează Politica privind ciclul de viață al [componentelor](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://www.microsoft.com/itpro/microsoft-edge)\n* [Întrebări frecvente despre politica privind ciclul de viață internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Începând cu 12 ianuarie 2016, numai cea mai recentă versiune de Internet Explorer disponibilă pentru un sistem de operare acceptat va primi asistență tehnică și actualizări de securitate."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://www.microsoft.com/itpro/microsoft-edge)\n* [Întrebări frecvente despre politica privind ciclul de viață internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Începând cu 12 ianuarie 2016, numai cea mai recentă versiune de Internet Explorer disponibilă pentru un sistem de operare acceptat primește asistență tehnică și actualizări de securitate."

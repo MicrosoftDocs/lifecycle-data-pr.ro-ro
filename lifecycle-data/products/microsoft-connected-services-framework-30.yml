@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Connected Services Framework 3.0
-  description: Microsoft Connected Services Framework 3.0 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Connected Services Framework 3.0 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834658"
 name: Microsoft Connected Services Framework 3.0
 summary: >+
-  Microsoft Connected Services Framework 3.0 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Connected Services Framework 3.0 respectă Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru este valabil pentru următoarele ediții: Eveniment business standard de facturare, Eveniment de afaceri standard de manipulare a comenzilor, Server, Server standard, Server standard cu evenimente standard de afaceri
+  Aceasta se aplică edițiilor următoare: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events
 
 products:
 - connected-services-framework
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Edițiile \n* Eveniment de afaceri standard de facturare\n* Eveniment de afaceri standard de manipulare a comenzilor\n* Server\n* Standard\n* Server standard cu evenimente de afaceri standard"
+content: "\n\n\n## <a name=\"editions\"></a>Ediții \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Server\n* Standard\n* Standard Server with Standard Business Events"

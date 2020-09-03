@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 3.0
-  description: Microsoft .NET Framework 3.0 urmează Politica privind ciclul de viață fix.
+  description: Microsoft .NET Framework 3.0 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: a237dbb82803402d137fc784cf184e58b604015b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834625"
 name: Microsoft .NET Framework 3.0
 summary: >+
-  Microsoft .NET Framework 3.0 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft .NET Framework 3.0 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Legături \n* [Întrebări frecvente despre ciclul de viață - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informații despre produs](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> Suportul pentru versiunile .NET Framework 3.x înainte de 3.5 SP1 s-a încheiat pe 12 iulie 2011."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Întrebări frecvente despre ciclul de viață - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informații despre produs](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> Asistența pentru versiunile .NET Framework 3.x anterioare versiunii 3.5 SP1 s-a încheiat pe 12 iulie 2011."
