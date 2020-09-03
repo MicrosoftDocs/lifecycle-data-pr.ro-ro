@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics POS 2009
-  description: Dynamics POS 2009 urmează Politica privind ciclul de viață fix.
+  title: Ediția Dynamics POS 2009
+  description: Dynamics POS 2009 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a1ad92ea731fb673d0cc7dd8d4abf893986f5da
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834334"
-name: Dynamics POS 2009
+name: Ediția Dynamics POS 2009
 summary: >+
-  Dynamics POS 2009 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Dynamics POS 2009 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/17/2009
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://community.dynamics.com/rms/b/rmssupport/archive/2014/07/17/pos-2009-end-of-mainstream-support)\n* [Informații despre produs](https://dynamics.microsoft.com/en-us/?&WT.srch)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://community.dynamics.com/rms/b/rmssupport/archive/2014/07/17/pos-2009-end-of-mainstream-support)\n* [Informații despre produs](https://dynamics.microsoft.com/en-us/?&WT.srch)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)"

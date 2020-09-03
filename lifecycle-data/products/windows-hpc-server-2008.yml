@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows HPC Server 2008
-  description: Windows HPC Server 2008 urmează Politica privind ciclul de viață fix.
+  title: Ediție Windows HPC Server 2008
+  description: Windows HPC Server 2008 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834503"
-name: Windows HPC Server 2008
+name: Ediție Windows HPC Server 2008
 summary: >
-  Windows HPC Server 2008 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows HPC Server 2008 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru este valabil pentru următoarele ediții: Standard, fără Hyper-V
+  Acest lucru se aplică la următoarele ediții: Standard, fără Hyper-V
 
 
   > [!IMPORTANT]
 
-  > Suportul s-a terminat. A se vedea orientările privind migrația de mai jos.
+  > Suportul s-a încheiat. A se vedea orientările privind migrarea de mai jos.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Standard\n* fără Hyper-V"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Ediții \n* Standard\n* fără Hyper-V"

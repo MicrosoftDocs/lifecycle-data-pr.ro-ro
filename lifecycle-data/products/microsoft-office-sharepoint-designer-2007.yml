@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office SharePoint Designer 2007
-  description: Microsoft Office SharePoint Designer 2007 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Office SharePoint Designer 2007 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0224051cc3edc793e7c87b5c5cefdc0f9f95153
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834613"
 name: Microsoft Office SharePoint Designer 2007
 summary: >+
-  Microsoft Office SharePoint Designer 2007 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Office SharePoint Designer 2007 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/office/troubleshoot/support/office-2007-not-support)\n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/office/troubleshoot/support/office-2007-not-support)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)"
