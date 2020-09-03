@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Orchestrator Semi Anual Channel
-  description: System Center Orchestrator Semi Annual Channel urmează Politica modernă a ciclului de viață.
+  title: System Center Orchestrator, Canal semianual
+  description: System Center Orchestrator, Canal semianual urmează Politica modernă a ciclului de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b854c8bacdf528bc85b87d07b03664a62fd04c2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871679"
-name: System Center Orchestrator Semi Anual Channel
-summary: >
-  System Center Orchestrator Semi Annual Channel urmează Politica [modernă](/lifecycle/policies/modern) a ciclului de viață.
-
-
-
-  > [!IMPORTANT]
-
-  > Suportul s-a terminat. A se vedea orientările privind migrația de mai jos.
+name: System Center Orchestrator, Canal semianual
+summary: "System Center Orchestrator, Canal semianual urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață. \n\n\n> [!IMPORTANT]\n> Suportul s-a încheiat. A se vedea orientările privind migrarea de mai jos.\n"
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +24,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"

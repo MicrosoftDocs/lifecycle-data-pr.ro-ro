@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio .NET 2003
-  description: Microsoft Visual Studio .NET 2003 urmează Politica privind ciclul de viață fix.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3480529da4e74d11dd7fda7e1b052e5adc7e82f1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  description: Microsoft Visual Studio .NET 2003 urmează Politica fixă privind ciclul de viață.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: bd77a04d5e2119962483b8cdc8edb48ab1befd4f
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834023"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907997"
 name: Microsoft Visual Studio .NET 2003
 summary: >+
-  Microsoft Visual Studio .NET 2003 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Visual Studio .NET 2003 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Enterprise Architect, Enterprise Developer, Professional
+  Aceasta se aplică edițiilor următoare: Enterprise Architect, Enterprise Developer, J#, Professional
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/09/2007
-content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Arhitect întreprindere\n* Dezvoltator întreprindere\n* Profesionale"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediții \n* Enterprise Architect\n* Enterprise Developer\n* J#\n* Professional"

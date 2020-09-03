@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8 urmează politica privind ciclul de viață fix.
+  description: Windows 8 urmează Politica fixă privind ciclul de viață.
   ms.date: 08/21/2020
   ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906706"
 name: Windows 8
 summary: >
-  Windows 8 urmează politica privind ciclul de viață [fix](/lifecycle/policies/fixed) .
+  Windows 8 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică următoarelor ediții: Enterprise, Enterprise N, N, Pro cu Media Center, Professional, Professional N, SL
+  Aceasta se aplică edițiilor următoare: Enterprise, Enterprise N, N, Pro cu Media Center, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
 
-  > Asistența pentru acest produs s-a încheiat. Clienții trebuie să actualizeze la Windows 8,1 pentru a rămâne acceptat.
+  > Suportul pentru acest produs s-a încheiat. Clienții trebuie să actualizeze la Windows 8.1 pentru a continua să beneficieze de asistență.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Întrebări frecvente despre ciclul de viață-Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edițiile \n* Enterprise\n* Intreprindere N\n* N\n* Pro cu Media Center\n* Profesionale\n* N Professional\n* SL"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Întrebări frecvente despre ciclul de viață - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Ediții \n* Enterprise\n* Enterprise N\n* N\n* Pro cu Media Center\n* Professional\n* Professional N\n* SL"

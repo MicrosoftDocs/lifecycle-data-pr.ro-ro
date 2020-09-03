@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.8
-  description: Microsoft .NET Framework 4.8 urmează Politica privind ciclul de viață al componentelor.
+  description: Microsoft .NET Framework 4.8 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: df883bbb34d446d8dfe0ba2635a781778f510841
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871677"
 name: Microsoft .NET Framework 4.8
 summary: >+
-  Microsoft .NET Framework 4.8 urmează Politica privind ciclul de viață al [componentelor.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft .NET Framework 4.8 urmează Politica [fixă](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) privind ciclul de viață.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 04/18/2019
-content: "\n## <a name=\"links\"></a>Legături \n* [Informații despre produs](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [Întrebări frecvente despre ciclul de viață al cadrului .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework este o componentă a sistemului de operare Windows. Componentele beneficiază de același suport ca și produsul sau platforma lor părinte."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre produs](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [Întrebări frecvente despre ciclul de viață al componentei .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework este o componentă a sistemului de operare Windows. Componentele beneficiază de același nivel de asistență precum produsul sau platforma părinte."
