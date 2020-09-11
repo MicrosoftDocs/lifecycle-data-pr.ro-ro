@@ -2,13 +2,13 @@
 metadata:
   title: Aplicații Microsoft 365 pentru întreprindere
   description: Aplicații Microsoft 365 pentru întreprindere urmează Politica modernă privind ciclul de viață.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5ba40811a13f29fa2677ddd6dfa56571327df7be
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/27/2020
+  ms.openlocfilehash: 3ed4daef6e0740ded4c57465bb95bc2447a2afb1
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
   ms.translationtype: HT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860946"
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924305"
 name: Aplicații Microsoft 365 pentru întreprindere
 summary: >+
   Aplicații Microsoft 365 pentru întreprindere urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Matricea de suport pentru configurarea Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Cerințe de sistem](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Informații despre servicii](/DeployOffice/change-management-for-office-365-clients)\n\n> [!NOTE]\n> Acest produs s-a numit înainte Office 365 ProPlus."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Matricea de suport pentru configurarea Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Cerințe de sistem](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Informații despre servicii](/DeployOffice/change-management-for-office-365-clients)\n* [Istoricul actualizărilor pentru aplicațiile Microsoft 365](/officeupdates/update-history-microsoft365-apps-by-date)\n\n> [!NOTE]\n> Acest produs s-a numit înainte Office 365 ProPlus."
