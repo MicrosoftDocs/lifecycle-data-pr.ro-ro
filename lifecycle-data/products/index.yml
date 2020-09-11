@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Căutați informații despre ciclul de viață al produselor și serviciilor (Previzualizare)
+title: Căutați informații despre ciclul de viață al produselor și serviciilor
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Această pagină este în curs de dezvoltare și va fi complet activă pe 2 septembrie. Între timp, puteți vizualiza o listă completă a produselor Microsoft cu cronologiile și detaliile lor de asistență la [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Exportați informații despre ciclul de viață din pagina [Export ciclu de viață](/lifecycle/export/products).\n\n\nCiclul de viață Microsoft oferă instrucțiuni consecvente și previzibile pentru asistență pe toată durata de viață a unui produs, ajutând clienții să își gestioneze investițiile și mediile IT, asigurând în același timp planificarea strategică pentru viitor.\n\n\nCăutați mai jos o listă de produse și servicii comerciale Microsoft, apoi selectați rezultatul pentru a găsi cronologii de asistență și întreținere, actualizări necesare, informații despre migrare și cerințe de sistem."
+summary: "\n> [!NOTE]\n> Exportați informații despre ciclul de viață din pagina [Export ciclu de viață](/lifecycle/products/export).\n\n\nCiclul de viață Microsoft oferă instrucțiuni consecvente și previzibile pentru asistență pe toată durata de viață a unui produs, ajutând clienții să își gestioneze investițiile și mediile IT, asigurând în același timp planificarea strategică pentru viitor.\n\n\nCăutați mai jos o listă de produse și servicii comerciale Microsoft, apoi selectați rezultatul pentru a găsi cronologii de asistență și întreținere, actualizări necesare, informații despre migrare și cerințe de sistem."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899852"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943046"
