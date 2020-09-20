@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Parature, de la Microsoft
-  description: Parature, de la Microsoft urmează Politica privind ciclul de viață modern.
+  description: Parature de la Microsoft urmează Politica modernă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: ec9af75ad6501403aa83c803d54630069c7b3f0a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860851"
 name: Parature, de la Microsoft
 summary: >+
-  Parature, de la Microsoft urmează Politica privind ciclul de viață [modern.](/lifecycle/policies/modern)
+  Parature de la Microsoft urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2015
   endDate: 05/15/2018
-content: "\n## <a name=\"links\"></a>Legături \n* [Anunț de încheiere a sprijinului](https://support.microsoft.com/help/4035128)\n* [Portalul de asistență pentru migrarea parature](https://aka.ms/paraturecustomers)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații privind data de sfârșit al perioadei de asistență](https://support.microsoft.com/help/4035128)\n* [Portalul de asistență pentru migrarea Parature](https://aka.ms/paraturecustomers)"

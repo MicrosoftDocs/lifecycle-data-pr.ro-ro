@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Administrare și monitorizare Microsoft BitLocker 2.5
-  description: Administrarea și monitorizarea Microsoft BitLocker 2.5 urmează Politica privind ciclul de viață fix.
+  description: Microsoft BitLocker Administration and Monitoring 2.5 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe5d94e98de4c880815a7bad0a2ae5dd42a74600
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861118"
 name: Administrare și monitorizare Microsoft BitLocker 2.5
 summary: >+
-  Administrarea și monitorizarea Microsoft BitLocker 2.5 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft BitLocker Administration and Monitoring 2.5 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)"

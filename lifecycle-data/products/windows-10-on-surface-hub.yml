@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 pe Surface Hub
-  description: Windows 10 pe Surface Hub urmează Politica privind ciclul de viață fix.
+  description: Windows 10 pe Surface Hub urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860830"
 name: Windows 10 pe Surface Hub
 summary: >+
-  Windows 10 pe Surface Hub urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows 10 pe Surface Hub urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/25/2016
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Legături \n* [Actualizări Windows (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Consultați pagina Actualizări Windows (Surface Hub) pentru a vă asigura că primiți cele mai recente actualizări Surface Hub."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Actualizari Windows (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Consultați pagina Actualizări Windows (Surface Hub) pentru a vă asigura că primiți cele mai recente actualizări Surface Hub."

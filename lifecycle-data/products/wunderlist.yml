@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Wunderlist
-  description: Wunderlist urmează Politica privind ciclul de viață fix.
+  description: Wunderlist urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860869"
 name: Wunderlist
-summary: "Wunderlist urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> Suportul pentru acest produs este supus termenilor achiziției sale. Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos. \n"
+summary: "Wunderlist urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\n\n> [!IMPORTANT]\n> Asistența pentru acest produs face obiectul condițiilor achiziționării acestuia. Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrarea de mai jos. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/02/2015
   endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
