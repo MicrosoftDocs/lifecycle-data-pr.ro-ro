@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerShell
-  description: PowerShell urmează politica modernă pentru ciclul de viață.
+  description: PowerShell urmează Politica modernă privind ciclul de viață.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: 5819d863d735920cdb08f70b8280348c152ca27c
   ms.sourcegitcommit: 33a446990607d1c24303bd86e45d4e4de34e56a5
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "945231"
 name: PowerShell
 summary: >+
-  PowerShell urmează politica [modernă](/lifecycle/policies/modern) pentru ciclul de viață.
+  PowerShell urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: PowerShell 6.x
   startDate: 01/19/2018
   endDate: 09/04/2020
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre servicii](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Consultați informații detaliate despre ciclul de viață PowerShell la linkul informații despre servicii."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre servicii](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Consultați informațiile detaliate despre ciclul de viață PowerShell la linkul de informații despre service."
