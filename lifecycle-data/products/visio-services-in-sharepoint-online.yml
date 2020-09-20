@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visio Services în SharePoint Online
-  description: Visio Services din SharePoint Online urmează Politica privind ciclul de viață modern.
+  title: Servicii Visio în SharePoint Online
+  description: Visio Services în SharePoint Online urmează politica modernă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834162"
-name: Visio Services în SharePoint Online
+name: Servicii Visio în SharePoint Online
 summary: >+
-  Visio Services din SharePoint Online urmează Politica privind ciclul de viață [modern.](/lifecycle/policies/modern)
+  Visio Services în SharePoint Online urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/16/2010
   endDate: 09/30/2020
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"

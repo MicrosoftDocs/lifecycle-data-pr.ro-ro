@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows încorporat pentru punctul de service
-  description: Windows Embedded for Point of Service urmează Politica privind ciclul de viață fix.
+  title: Windows Embedded pentru Punct de servicii
+  description: Windows Embedded pentru Punct de servicii urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: fbfd3d13009c5b34a5ef92a78e76149f30ec707d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834514"
-name: Windows încorporat pentru punctul de service
+name: Windows Embedded pentru Punct de servicii
 summary: >
-  Windows Embedded for Point of Service urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows Embedded pentru Punct de servicii urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 06/06/2005
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Legături \n* [Asistență pentru Windows Embedded for Point of Service](https://support.microsoft.com/help/18581)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Asistență Windows Embedded pentru Punct de servicii](https://support.microsoft.com/help/18581)."

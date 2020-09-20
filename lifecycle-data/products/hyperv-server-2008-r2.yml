@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Hyper-V Server 2008 R2
-  description: Hyper-V Server 2008 R2 urmează Politica privind ciclul de viață fix.
+  description: Hyper-V Server 2008 R2 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6887524823a979fc8ea45c7745423de784efec7e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834741"
 name: Hyper-V Server 2008 R2
-summary: "Hyper-V Server 2008 R2 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrația de mai jos. \n"
+summary: "Hyper-V Server 2008 R2 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrarea de mai jos. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/windows-server/get-started/modernize-windows-server-2008)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/windows-server/get-started/modernize-windows-server-2008)"

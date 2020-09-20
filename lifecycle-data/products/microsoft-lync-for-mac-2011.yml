@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync pentru Mac 2011
-  description: Microsoft Lync pentru Mac 2011 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Lync pentru Mac 2011 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 207ed38b1b2ea1ec21b7f89d565df627ab2e7c42
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834061"
 name: Microsoft Lync pentru Mac 2011
 summary: >+
-  Microsoft Lync pentru Mac 2011 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Lync pentru Mac 2011 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Legături \n* [Skype for Business pe Mac](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Asistența pentru Microsoft Lync pentru Mac 2011 este extinsă așa se arată pentru a oferi tuturor clienților o cronologie de tranziție a ciclului de viață către Skype for Business pe Mac."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Skype for Business pe Mac](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Asistența pentru Microsoft Lync pentru Mac 2011 este extinsă așa cum se arată pentru a oferi tuturor clienților o cronologie de tranziție a ciclului de viață către Skype for Business pe Mac."
