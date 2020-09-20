@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Lync 2013
-  description: Lync 2013 urmează politica privind ciclul de viață fix.
+  description: Lync 2013 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/01/2020
   keywords: SDK,Standard
   ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933353"
 name: Lync 2013
 summary: >+
-  Lync 2013 urmează politica privind ciclul de viață [fix](/lifecycle/policies/fixed) .
+  Lync 2013 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Acest lucru se aplică la următoarele ediții: SDK, standard
+  Aceasta se aplică edițiilor următoare: SDK, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Versiunea client Skype for Business 2015 este o actualizare a clientului Lync 2013 și va urma același ciclu de viață al produsului.\nData de început pentru Lync 2013 SDK este 23 februarie 2013. \n\n## <a name=\"editions\"></a>Ediții \n* SDK\n* Standard"
+content: "\n\n> [!NOTE]\n> Versiunea Client Skype for Business 2015 este o actualizare a Clientului Lync 2013 și va urma același ciclu de viață al produsului.\nData de început pentru Lync 2013 SDK este 23 februarie 2013. \n\n## <a name=\"editions\"></a>Ediții \n* SDK\n* Standard"
