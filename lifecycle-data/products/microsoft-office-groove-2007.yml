@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Groove 2007
-  description: Microsoft Office Groove 2007 urmează Politica privind ciclul de viață fix.
+  description: Microsoft Office Groove 2007 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: b771dec5ab12ab49e3317d53aea8e91f5d95bd40
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834281"
 name: Microsoft Office Groove 2007
-summary: "Microsoft Office Groove 2007 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. \n"
+summary: "Microsoft Office Groove 2007 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/office/troubleshoot/support/office-2007-not-support)"

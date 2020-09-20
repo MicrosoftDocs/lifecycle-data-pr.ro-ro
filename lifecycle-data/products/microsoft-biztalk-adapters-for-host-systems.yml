@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Adaptoare Microsoft BizTalk pentru sisteme gazdă
-  description: Adaptoarele Microsoft BizTalk pentru sistemele gazdă urmează Politica privind ciclul de viață fix.
+  description: Microsoft BizTalk Adapters for Host Systems urmează politica fixă privind ciclul de viață
   ms.date: 07/28/2020
   ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834692"
 name: Adaptoare Microsoft BizTalk pentru sisteme gazdă
 summary: >+
-  Adaptoarele Microsoft BizTalk pentru sistemele gazdă urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft BizTalk Adapters for Host Systems urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PC virtual 2007
-  description: Virtual PC 2007 urmează Politica privind ciclul de viață fix.
+  title: Virtual PC 2007
+  description: Virtual PC 2007 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4c016f39a3c567e73c1f143299d4cbe59a6f528
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834531"
-name: PC virtual 2007
+name: Virtual PC 2007
 summary: >
-  Virtual PC 2007 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Virtual PC 2007 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/05/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Legături \n* [Politica pachetului service pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)"
