@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Agent de implementare Microsoft 2013
-  description: Microsoft Deployment Agent 2013 urmează Politica privind ciclul de viață fix.
+  title: Componenta Microsoft Deployment Agent 2013
+  description: Microsoft Deployment Agent 2013 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860933"
-name: Agent de implementare Microsoft 2013
+name: Componenta Microsoft Deployment Agent 2013
 summary: >+
-  Microsoft Deployment Agent 2013 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Microsoft Deployment Agent 2013 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n> [!NOTE]\n> Pentru Agent de implementare 2013, Actualizarea 4 va fi acceptată conform instrucțiunilor de politică până la 04.09.2024."
+content: "\n\n> [!NOTE]\n> Pentru Deployment Agent 2013, actualizarea 4 va beneficia de asistență conform instrucțiunilor de politică până la 9/4/2024."

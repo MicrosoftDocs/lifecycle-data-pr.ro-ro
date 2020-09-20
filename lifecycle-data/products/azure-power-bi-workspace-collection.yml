@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Colecția spațiu de lucru Azure Power BI
-  description: Colecția Azure Power BI Workspace respectă Politica modernă privind ciclul de viață.
+  title: Colecția de spații de lucru Azure Power BI
+  description: Colecția de spații de lucru Azure Power BI urmează Politica modernă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860796"
-name: Colecția spațiu de lucru Azure Power BI
+name: Colecția de spații de lucru Azure Power BI
 summary: >
-  Colecția Azure Power BI Workspace respectă Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
+  Colecția de spații de lucru Azure Power BI urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață
 
 
 
   > [!IMPORTANT]
 
-  > Suportul s-a terminat. A se vedea orientările privind migrația de mai jos.
+  > Suportul s-a încheiat. A se vedea orientările privind migrarea de mai jos.
 products:
 - sql-server
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2016
   endDate: 07/30/2018
-content: "\n## <a name=\"links\"></a>Legături \n* [Orientări privind migrația](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"
