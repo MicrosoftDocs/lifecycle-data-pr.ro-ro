@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Advanced Threat Analytics 1. X
-  description: Advanced Threat Analytics 1. X urmează politica privind ciclul de viață fix.
+  title: Advanced Threat Analytics 1.X
+  description: Advanced Threat Analytics 1.X urmează Politica fixă privind ciclul de viață.
   ms.date: 09/10/2020
   keywords: 
   ms.openlocfilehash: 63d72a1510958edf2f7800c4a102fb587cbb8750
   ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1002773"
-name: Advanced Threat Analytics 1. X
+name: Advanced Threat Analytics 1.X
 summary: >+
-  Advanced Threat Analytics 1. X urmează politica privind ciclul de viață [fix](/lifecycle/policies/fixed) .
+  Advanced Threat Analytics 1.X urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2015
   endDate: 01/13/2026
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni avansate pentru serviciul de analiză a amenințărilor](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Actualizările sunt cumulative, cu fiecare actualizare construită la toate actualizările care l-au precedat. Un dispozitiv trebuie să instaleze cea mai recentă actualizare pentru a rămâne acceptată."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Îndrumări de întreținere pentru Advanced Threat Analytics](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Actualizările sunt cumulative, fiecare actualizare fiind construită pe toate actualizările care au precedat-o. Un dispozitiv trebuie să aibă cea mai recentă actualizare instalată pentru a continua să beneficieze de asistență."

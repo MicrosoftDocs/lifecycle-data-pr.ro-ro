@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Server 2019
-  description: Project Server 2019 urmează politica de ciclu de viață fixă.
+  description: Project Server 2019 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: a6d1929104c2e7fa0172f1b3208ce0a0022bc160
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941424"
 name: Project Server 2019
 summary: >+
-  Project Server 2019 urmează politica de ciclu de viață [fixă](/lifecycle/policies/fixed) .
+  Project Server 2019 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2018
   endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> Consultați documentația pentru [produse](https://docs.microsoft.com/project/project-server-2013-and-2016) și [dezvoltatori](https://developer.microsoft.com/project/docs) ."
+content: "\n\n> [!NOTE]\n> Consultați [documentația pentru produse](https://docs.microsoft.com/project/project-server-2013-and-2016) și [dezvoltatori](https://developer.microsoft.com/project/docs)."
