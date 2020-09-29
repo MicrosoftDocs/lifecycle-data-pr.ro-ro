@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics SL 2015
-  description: Dynamics SL 2015 urmează Politica privind ciclul de viață fix.
+  description: Dynamics SL 2015 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: a082204c2a5c05abdabc7d16de83e67eb3a115b4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861134"
 name: Dynamics SL 2015
 summary: >+
-  Dynamics SL 2015 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Dynamics SL 2015 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
