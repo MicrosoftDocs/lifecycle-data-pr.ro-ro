@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server Azure DevOps
-  description: Azure DevOps Server urmărește politica ciclului de viață fix.
+  title: Azure DevOps Server
+  description: Azure DevOps Server urmează Politica fixă privind ciclul de viață.
   ms.date: 08/27/2020
   ms.openlocfilehash: 8b92f5abaadb0973aa3b220683011ec4a9b03fb2
   ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 08/27/2020
   ms.locfileid: "922990"
-name: Server Azure DevOps
+name: Azure DevOps Server
 summary: >+
-  Azure DevOps Server urmărește politica ciclului de viață [fix](/lifecycle/policies/fixed) .
+  Azure DevOps Server urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:

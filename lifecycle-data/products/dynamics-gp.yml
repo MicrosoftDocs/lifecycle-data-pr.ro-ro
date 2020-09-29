@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP
-  description: Dynamics GP urmează Politica privind ciclul de viață modern.
+  description: Dynamics GP urmează Politica modernă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2eb777e87a54e4dd08f495ac1f08ac4adf83a6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871557"
 name: Dynamics GP
 summary: >+
-  Dynamics GP urmează Politica privind ciclul de viață [modern.](/lifecycle/policies/modern)
+  Dynamics GP urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/07/2019
   endDate: 01/11/2028
-content: "\n## <a name=\"links\"></a>Legături \n* [Foaie de parcurs Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Informații despre service](/dynamics-gp/terms/lifecycle)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Foaie de parcurs pentru Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Informații despre servicii](/dynamics-gp/terms/lifecycle)"

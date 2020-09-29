@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure Virtual WAN
-  description: Azure Virtual WAN urmează Politica modernă a ciclului de viață.
+  description: Azure Virtual WAN urmează Politica modernă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: f6c8e8b638b9bb6a65bd3213cc23c61ad3c39b0b
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871581"
 name: Azure Virtual WAN
 summary: >+
-  Azure Virtual WAN urmează Politica [modernă](/lifecycle/policies/modern) a ciclului de viață.
+  Azure Virtual WAN urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
 products:
