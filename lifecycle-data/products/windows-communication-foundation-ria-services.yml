@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servicii RIA pentru Fundația de Comunicații Windows
-  description: Windows Communication Foundation RIA Services urmează Politica privind ciclul de viață fix.
+  title: Servicii Windows Communication Foundation RIA
+  description: Windows Communication Foundation RIA Services urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833992"
-name: Servicii RIA pentru Fundația de Comunicații Windows
+name: Servicii Windows Communication Foundation RIA
 summary: >+
-  Windows Communication Foundation RIA Services urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows Communication Foundation RIA Services urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:

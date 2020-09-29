@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Instrumente de dezvoltare Dynamics Mobile
-  description: Dynamics Mobile Development Tools urmează Politica privind ciclul de viață al componentelor.
+  description: Instrumentele de dezvoltare Dynamics Mobile urmează Politica privind ciclul de viață al componentelor.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "834339"
 name: Instrumente de dezvoltare Dynamics Mobile
 summary: >+
-  Dynamics Mobile Development Tools urmează Politica privind ciclul de viață al [componentelor.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Instrumentele de dezvoltare Dynamics Mobile urmează Politica privind ciclul de viață al [componentelor](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
