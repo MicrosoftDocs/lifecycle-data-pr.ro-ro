@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office Online Server
-  description: Office Online Server urmează Politica privind ciclul de viață modern.
+  title: Produs Office Online Server
+  description: Office Online Server urmează Politica modernă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 953cd5a923a96f676bc0204fc7c9419e95889496
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860888"
-name: Office Online Server
+name: Produs Office Online Server
 summary: >+
-  Office Online Server urmează Politica privind ciclul de viață [modern.](/lifecycle/policies/modern)
+  Office Online Server urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
 products:

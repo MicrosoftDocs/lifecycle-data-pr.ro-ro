@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio LightSwitch 2011
-  description: Visual Studio LightSwitch 2011 urmează Politica privind ciclul de viață fix.
+  description: Visual Studio LightSwitch 2011 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861044"
 name: Visual Studio LightSwitch 2011
 summary: >+
-  Visual Studio LightSwitch 2011 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Visual Studio LightSwitch 2011 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2011
   endDate: 01/11/2022
-content: "\n## <a name=\"links\"></a>Legături \n* [Lightswitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Aplicații de alimentare](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 este ultima versiune a Visual Studio care include sculele LightSwitch. Vă recomandăm să utilizați Microsoft PowerApps pentru orice dezvoltare nouă de aplicații."
+content: "\n## <a name=\"links\"></a>Linkuri \n* [LightSwitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power Apps](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 este ultima versiune Visual Studio care include instrumentul LightSwitch. Recomandăm utilizarea Microsoft PowerApps pentru dezvoltarea oricăror aplicații noi."

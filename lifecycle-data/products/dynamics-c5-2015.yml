@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinamica C5 2015
-  description: Dynamics C5 2015 urmează Politica privind ciclul de viață fix.
+  title: Dynamics C5 2015
+  description: Dynamics C5 2015 urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1a63d2f744781d36a66b40bcdbd799cd7c425c1a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861059"
-name: Dinamica C5 2015
+name: Dynamics C5 2015
 summary: >+
-  Dynamics C5 2015 urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Dynamics C5 2015 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:

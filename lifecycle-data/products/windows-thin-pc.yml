@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PC subțire Windows
-  description: Windows Thin PC urmează Politica privind ciclul de viață fix.
+  title: Windows Thin PC
+  description: Windows Thin PC urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
   ms.openlocfilehash: 69f6537ffd5ab3d93b955bcaf9801eb52d241415
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861031"
-name: PC subțire Windows
+name: Windows Thin PC
 summary: >+
-  Windows Thin PC urmează Politica privind ciclul de viață [fix.](/lifecycle/policies/fixed)
+  Windows Thin PC urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
