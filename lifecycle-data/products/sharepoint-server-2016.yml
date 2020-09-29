@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2016
-  description: SharePoint Server 2016 urmează politica de ciclu de viață fixă.
+  description: SharePoint Server 2016 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941746"
 name: SharePoint Server 2016
 summary: >+
-  SharePoint Server 2016 urmează politica de ciclu de viață [fixă](/lifecycle/policies/fixed) .
+  SharePoint Server 2016 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații privind serviciile](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Consultați documentația pentru [produse](https://docs.microsoft.com/sharepoint/sharepoint-server) și [dezvoltatori](https://developer.microsoft.com/sharepoint/docs)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații privind serviciile](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Consultați [documentația pentru produse](https://docs.microsoft.com/sharepoint/sharepoint-server) și [dezvoltatori](https://developer.microsoft.com/sharepoint/docs)."
