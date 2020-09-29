@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Aspect dinamic 365
-  description: Aspectul Dynamics 365 urmează politica modernă a ciclului de viață.
+  title: Dynamics 365 Layout
+  description: Dynamics 365 Layout urmează Politica modernă privind ciclul de viață.
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891855"
-name: Aspect dinamic 365
+name: Dynamics 365 Layout
 summary: >+
-  Aspectul Dynamics 365 urmează politica [modernă](/lifecycle/policies/modern) a ciclului de viață.
+  Dynamics 365 Layout urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Aspect și asistență la distanță](/dynamics365/mixed-reality/layout/faq)\n* [Anunțarea aspectului de tranziție a dinamicii 365](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Layout și Remote Assist](/dynamics365/mixed-reality/layout/faq)\n* [Anunțarea tranziției pentru Dynamics 365 Layout](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
