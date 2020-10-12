@@ -2,20 +2,20 @@
 metadata:
   title: Windows 10 Home și Pro
   description: Windows 10 Home și Pro respectă Politica modernă privind ciclul de viață.
-  ms.date: 09/01/2020
-  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
-  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 09/22/2020
+  keywords: 
+  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
+  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
   ms.translationtype: HT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938385"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "1026898"
 name: Windows 10 Home și Pro
 summary: >
   Windows 10 Home și Pro respectă Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
-  Aceasta se aplică edițiilor următoare: Home, Pro, Pro for Education, Pro for Workstations, Professional
+  Aceasta se aplică edițiilor următoare: Home, Pro, Pro Education, Pro for Workstations
 
 
   > [!IMPORTANT]
@@ -39,9 +39,9 @@ releases:
   endDate: 12/08/2020
 - version: Version 1809
   startDate: 11/13/2018
-  endDate: 05/12/2020
+  endDate: 11/10/2020
 - version: Version 1803
-  startDate: 04/30/2018
+  startDate: 10/17/2017
   endDate: 11/12/2019
 - version: Version 1709
   startDate: 10/17/2017
@@ -58,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Windows ca serviciu (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Fișa informativă a ciclului de viață Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Întrebări frecvente despre ciclul de viață - Produse Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstations s-a lansat pentru prima dată cu versiunea 1703\n> [!NOTE]\n> Cu excepția cazului în care sunt amânate, actualizările ulterioare ale caracteristicilor Windows 10, versiunea Canal semianual pot fi instalate înainte de data de sfârșit al perioadei de suport mainstream.\n\n## <a name=\"editions\"></a>Ediții \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Windows ca serviciu (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Fișa informativă a ciclului de viață Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Întrebări frecvente despre ciclul de viață - Produse Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstations s-a lansat pentru prima dată cu versiunea 1709.\n> [!NOTE]\n> Cu excepția cazului în care sunt amânate, actualizările ulterioare ale caracteristicilor Windows 10, versiunea Canal semianual pot fi instalate înainte de data de sfârșit al perioadei de suport mainstream.\n\n## <a name=\"editions\"></a>Ediții \n* Home\n* Pro\n* Pro Education\n* Pro for Workstations"
