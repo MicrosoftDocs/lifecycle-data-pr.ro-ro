@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Portaluri Adxstudio v7. x
+  description: Adxstudio portaluri v7. x urmează politica de ciclu de viață fixă.
+  ms.date: 10/22/2020
+  keywords: 
+  ms.openlocfilehash: c3bcea69dbd4ed827729c43f86e5f5a4c4bfa9e8
+  ms.sourcegitcommit: 2056a8a3f9a36793142bc03850e39d5751d9dad3
+  ms.translationtype: MT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 10/29/2020
+  ms.locfileid: "1193496"
+name: Portaluri Adxstudio v7. x
+summary: >+
+  Adxstudio portaluri v7. x urmează politica de ciclu de viață [fixă](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 08/01/2018
+releases:
+- version: v7.x
+  startDate: 09/29/2015
+  endDate: 08/01/2018
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://cloudblogs.microsoft.com/dynamics365/it/2017/09/14/changes-coming-for-legacy-adxstudio-portals-v7/?source=crm)\n\n> [!NOTE]\n> Asistența pentru acest produs este supusă condițiilor de achiziție și a încetat. A se vedea orientările privind migrarea de mai jos."
