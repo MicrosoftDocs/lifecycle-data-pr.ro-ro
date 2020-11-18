@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2013
-  description: Microsoft Lync Server 2013 respectă Politica fixă privind ciclul de viață.
+  description: Microsoft Lync Server 2013 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/01/2020
   keywords: Enterprise,Persistent Chat Software Development Kit,Phone,SDK,Standard
   ms.openlocfilehash: d6885f287ffa2bda2803e707d93db7ad5fdf5cb0
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "930689"
 name: Microsoft Lync Server 2013
 summary: >+
-  Microsoft Lync Server 2013 respectă Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
+  Microsoft Lync Server 2013 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
   Aceasta se aplică edițiilor următoare: Enterprise, Kit de dezvoltare software pentru chat persistent, Phone, SDK, Standard

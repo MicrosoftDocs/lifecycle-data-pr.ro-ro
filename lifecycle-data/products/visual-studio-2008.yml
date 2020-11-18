@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2008 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
-  Aceasta se aplică edițiilor următoare: All, Pro w/MSDN Premium, Professional, Professional w/MSDN, Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
+  Aceasta se aplică edițiilor următoare: All, Pro cu MSDN Premium, Professional, Professional cu MSDN, Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Include edițiile Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express și Visual Studio Team System\n\n## <a name=\"editions\"></a>Ediții \n* Toate\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Include edițiile Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express și Visual Studio Team System\n\n## <a name=\"editions\"></a>Ediții \n* All\n* Pro cu MSDN Premium\n* Professional\n* Professional cu MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Data de început pentru Microsoft Windows XP Professional x64 Edition a fost 24 aprilie 2005.\n\n## <a name=\"editions\"></a>Ediții \n* Home\n* Professional\n* Professional for Embedded Systems\n* Profesional x64\n* Starter"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Data de început pentru Microsoft Windows XP Professional x64 Edition a fost 24 aprilie 2005.\n\n## <a name=\"editions\"></a>Ediții \n* Home\n* Professional\n* Professional for Embedded Systems\n* Professional x64\n* Starter"
