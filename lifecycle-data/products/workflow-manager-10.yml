@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Workflow Manager 1.0
-  description: Workflow Manager 1.0 respectă Politica fixă privind ciclul de viață.
+  description: Workflow Manager 1.0 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/10/2020
   keywords: 
   ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1002774"
 name: Workflow Manager 1.0
 summary: >+
-  Workflow Manager 1.0 respectă Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
+  Workflow Manager 1.0 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
   Aceasta se aplică edițiilor următoare: Client, Standard
