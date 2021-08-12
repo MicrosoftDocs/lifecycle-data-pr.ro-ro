@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HockeyApp
-  description: HockeyApp urmează politica modernă a ciclului de viață.
+  title: Aplicație HockeyApp
+  description: HockeyApp urmează Politica modernă privind ciclul de viață.
   ms.date: 09/29/2020
   keywords: 
-  ms.openlocfilehash: 2aa133457f61c84ce238eb2bb4ce559f64ab4257
-  ms.sourcegitcommit: 7914229438c6935bc9dd98b1924a805d478e9e14
-  ms.translationtype: MT
+  ms.openlocfilehash: 497e9b2e7fd312532dd47cb164d9ed88206320e4e6b2dc6333bf3124573bf60a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.translationtype: HT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/29/2020
-  ms.locfileid: "1048765"
-name: HockeyApp
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2485945"
+name: Aplicație HockeyApp
 summary: >+
-  HockeyApp urmează politica [modernă](/lifecycle/policies/modern) a ciclului de viață.
+  HockeyApp urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2015
   endDate: 11/16/2019
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Ghid de migrare](/appcenter/transition/)"
+content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/appcenter/transition/)"
