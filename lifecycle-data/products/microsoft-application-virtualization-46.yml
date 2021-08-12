@@ -3,38 +3,44 @@ metadata:
   title: Microsoft Application Virtualization 4.6
   description: Microsoft Application Virtualization 4.6 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/01/2020
-  keywords: for Remote Desktop Services,for Windows Desktops,Sequencer
-  ms.openlocfilehash: e7ee52090b6e77209d2cc75b5862c21dfe4fe3dd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935573"
+  keywords: 'for Remote Desktop Services,for Windows Desktops,Sequencer'
 name: Microsoft Application Virtualization 4.6
-summary: >+
+summary: |+
   Microsoft Application Virtualization 4.6 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
-
 
   Acest lucru este valabil pentru următoarele ediții: for Remote Desktop Services, for Windows Desktops, Sequencer
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre produs și migrare](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Instrucțiuni pentru migrare](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Deoarece clientul App-V 4.6 utilizează serverul App-V 4.5, serverul App-V 4.5 va continua să beneficieze de asistență în conformitate cu datele ciclului de viață al App-V 4.6 atunci când este utilizat cu clientul App-V 4.6 acceptat.\n\n## <a name=\"editions\"></a>Ediții \n* for Remote Desktop Services\n* for Windows Desktops\n* Sequencer"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Linkuri 
+  * [Informații despre produs și migrare](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Instrucțiuni pentru migrare](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)
+  * [Politica Service Pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Deoarece clientul App-V 4.6 utilizează serverul App-V 4.5, serverul App-V 4.5 va continua să beneficieze de asistență în conformitate cu datele ciclului de viață al App-V 4.6 atunci când este utilizat cu clientul App-V 4.6 acceptat.
+
+  ## <a name="editions"></a>Ediții 
+  * for Remote Desktop Services
+  * for Windows Desktops
+  * Sequencer

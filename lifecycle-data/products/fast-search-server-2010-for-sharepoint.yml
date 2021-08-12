@@ -1,37 +1,41 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)
-  description: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites) urmează Politica fixă privind ciclul de viață.
+  title: 'FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)'
+  description: 'FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites) urmează Politica fixă privind ciclul de viață.'
   ms.date: 09/01/2020
-  keywords: for SharePoint,for SharePoint Internet Sites
-  ms.openlocfilehash: c027838c1f802c0ed026d733a9412fe15980c093
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936165"
-name: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)
-summary: >+
+  keywords: 'for SharePoint,for SharePoint Internet Sites'
+name: 'FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)'
+summary: |+
   FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites) urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
-
 
   Acest lucru se aplică următoarelor ediții: for SharePoint, for SharePoint Internet Sites
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/16/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 10/13/2020
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 07/23/2014
-- version: Original Release
-  startDate: 06/16/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Exclude versiunile care nu mai beneficiază de asistență. Asistența pentru acest produs face obiectul condițiilor achiziționării acestuia.\n\n## <a name=\"editions\"></a>Ediții \n* for SharePoint\n* for SharePoint Internet Sites"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 10/13/2020
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 07/23/2014
+  - version: Original Release
+    startDate: 06/16/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Linkuri 
+  * [Instrucțiuni pentru migrare](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)
+  * [Politica Service Pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Exclude versiunile care nu mai beneficiază de asistență. Asistența pentru acest produs face obiectul condițiilor achiziționării acestuia.
+
+  ## <a name="editions"></a>Ediții 
+  * for SharePoint
+  * for SharePoint Internet Sites
