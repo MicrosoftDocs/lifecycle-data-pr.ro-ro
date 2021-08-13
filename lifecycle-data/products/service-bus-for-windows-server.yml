@@ -3,29 +3,21 @@ metadata:
   title: Magistrală de servicii pentru Windows Server
   description: Service Bus for Windows Server urmează Politica privind ciclul de viață al componentelor.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "861003"
 name: Magistrală de servicii pentru Windows Server
-summary: >
+summary: |
   Service Bus for Windows Server urmează Politica privind ciclul de viață al [componentelor](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
-
   > [!IMPORTANT]
-
   > Când Service Bus 1.1 este o componentă a SharePoint Server 2016 sau SharePoint Server 2013, aceasta beneficiază de asistență în conformitate cu datele de sfârșit al perioadei de asistență ale versiunii respective SharePoint Server.
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/18/2012
   end: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: ''
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |+
