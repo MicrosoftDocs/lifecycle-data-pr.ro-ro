@@ -3,36 +3,36 @@ metadata:
   title: Windows Server 2008 pentru Windows Essential Server Solutions
   description: Windows Server 2008 pentru Windows Essential Server Solutions urmează Politica fixă privind ciclul de viață.
   ms.date: 09/01/2020
-  keywords: Standard,without Hyper-V
-  ms.openlocfilehash: dd1f811a9e93cdfe97655a9cfd030cfffdbd1116
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939569"
+  keywords: 'Standard,without Hyper-V'
 name: Windows Server 2008 pentru Windows Essential Server Solutions
-summary: >
+summary: |
   Windows Server 2008 pentru Windows Essential Server Solutions urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
-
 
   Aceasta se aplică edițiilor următoare: Standard, fără Hyper-V
 
-
   > [!IMPORTANT]
-
   > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrarea de mai jos.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 02/18/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 02/18/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://aka.ms/AA1ovn4)\n* [Informații despre produs](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Ediții \n* Standard\n* fără Hyper-V"
+  - version: Service Pack 2
+    startDate: 04/29/2009
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 02/18/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Linkuri 
+  * [Instrucțiuni pentru migrare](https://aka.ms/AA1ovn4)
+  * [Informații despre produs](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)
+
+
+  ## <a name="editions"></a>Ediții 
+  * Standard
+  * fără Hyper-V

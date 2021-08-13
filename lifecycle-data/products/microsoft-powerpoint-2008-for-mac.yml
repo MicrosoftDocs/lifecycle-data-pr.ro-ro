@@ -3,25 +3,19 @@ metadata:
   title: Microsoft PowerPoint 2008 pentru Mac
   description: Microsoft PowerPoint 2008 pentru Mac urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d562e552415d34d4ae5bdc7e18e9656925cbb705
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834196"
 name: Microsoft PowerPoint 2008 pentru Mac
-summary: >+
+summary: |+
   Microsoft PowerPoint 2008 pentru Mac urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/12/2008
   end: 04/09/2013
 releases:
-- version: Original Release
-  startDate: 03/12/2008
-  endDate: 04/09/2013
-content: ''
+  - version: Original Release
+    startDate: 03/12/2008
+    endDate: 04/09/2013
+content: |+

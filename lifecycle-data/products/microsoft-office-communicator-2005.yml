@@ -4,23 +4,28 @@ metadata:
   description: Microsoft Office Communicator 2005 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936276"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\nAceasta se aplică edițiilor următoare: Standard\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. \n"
+summary: |
+  Microsoft Office Communicator 2005 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
+
+  Aceasta se aplică edițiilor următoare: Standard
+
+  > [!IMPORTANT]
+  > Suportul pentru acest produs s-a încheiat. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 08/13/2005
   end: 10/12/2010
   extendedEnd: 10/13/2015
 releases:
-- version: Original Release
-  startDate: 08/13/2005
-  endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Ediții \n* Standard"
+  - version: Original Release
+    startDate: 08/13/2005
+    endDate: 10/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>Ediții 
+  * Standard

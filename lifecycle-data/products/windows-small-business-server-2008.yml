@@ -3,23 +3,36 @@ metadata:
   title: 'Windows Small Business Server 2008:'
   description: Windows Small Business Server 2008 respectă Politica fixă privind ciclul de viață.
   ms.date: 09/01/2020
-  keywords: Premium,Standard
-  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939199"
+  keywords: 'Premium,Standard'
 name: 'Windows Small Business Server 2008:'
-summary: "Windows Small Business Server 2008 respectă Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\nAceasta se aplică edițiilor următoare: Premium, Standard\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. \n\nData de asistență pentru acest pachet de produse este determinată de ciclurile de viață ale componentelor individuale ale produselor. Vă rugăm să consultați ciclul de viață al produsului individual al componentei pentru a determina durata de asistență a acestuia.\n"
+summary: |
+  Windows Small Business Server 2008 respectă Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
+
+  Aceasta se aplică edițiilor următoare: Premium, Standard
+
+  > [!IMPORTANT]
+  > Suportul pentru acest produs s-a încheiat. 
+
+  Data de asistență pentru acest pachet de produse este determinată de ciclurile de viață ale componentelor individuale ale produselor. Vă rugăm să consultați ciclul de viață al produsului individual al componentei pentru a determina durata de asistență a acestuia.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/21/2008
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 11/21/2008
-  endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Ediții \n* Premium\n* Standard"
+  - version: Original Release
+    startDate: 11/21/2008
+    endDate: 01/14/2020
+content: |
+
+  ## <a name="links"></a>Linkuri 
+  * [Instrucțiuni pentru migrare](https://aka.ms/AA1ovn4)
+  * [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)
+  * [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)
+  * [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)
+
+
+  ## <a name="editions"></a>Ediții 
+  * Premium
+  * Standard
