@@ -3,27 +3,35 @@ metadata:
   title: Windows Server 2005 R2
   description: Windows Server 2005 R2 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937941"
+  keywords: 'Enterprise,Standard'
 name: Windows Server 2005 R2
-summary: "Windows Server 2005 R2 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\nAceasta se aplică edițiilor următoare: Enterprise, Standard\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. \n"
+summary: |
+  Windows Server 2005 R2 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
+
+  Aceasta se aplică edițiilor următoare: Enterprise, Standard
+
+  > [!IMPORTANT]
+  > Suportul pentru acest produs s-a încheiat. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/28/2006
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Service Pack 1
-  startDate: 04/16/2007
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 01/28/2006
-  endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ediții \n* Enterprise\n* Standard"
+  - version: Service Pack 1
+    startDate: 04/16/2007
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 01/28/2006
+    endDate: 07/08/2008
+content: |
+
+  ## <a name="links"></a>Linkuri 
+  * [Politica Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Ediții 
+  * Enterprise
+  * Standard
