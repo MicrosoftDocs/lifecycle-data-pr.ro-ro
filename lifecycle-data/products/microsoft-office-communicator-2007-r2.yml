@@ -3,24 +3,32 @@ metadata:
   title: Microsoft Office Communicator 2007 R2
   description: Microsoft Office Communicator 2007 R2 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/10/2020
-  keywords: All applicable,Phone
-  ms.openlocfilehash: 1c08a0c9475ec3d3e6cfb381385a78a71b514d66
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001735"
+  keywords: 'All applicable,Phone'
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\nAcest lucru se aplică următoarelor ediții: Toate aplicabile, Phone\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. Consultați îndrumarea privind migrarea. \n"
+summary: |
+  Microsoft Office Communicator 2007 R2 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
+
+  Acest lucru se aplică următoarelor ediții: All applicable, Phone
+
+  > [!IMPORTANT]
+  > Suportul pentru acest produs s-a încheiat. Consultați îndrumarea privind migrarea. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/19/2009
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 03/19/2009
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Ediții \n* Toate aplicabile\n* Phone"
+  - version: Original Release
+    startDate: 03/19/2009
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Linkuri 
+  * [Instrucțiuni pentru migrare](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)
+
+
+  ## <a name="editions"></a>Ediții 
+  * All applicable
+  * Phone
