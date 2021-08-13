@@ -3,25 +3,23 @@ metadata:
   title: Virtual PC for Mac
   description: Virtual PC for Mac urmează Politica fixă privind ciclul de viață.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "834530"
 name: Virtual PC for Mac
-summary: >+
+summary: |+
   Virtual PC for Mac urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 11/12/2003
   end: 04/13/2010
 releases:
-- version: Original Release
-  startDate: 11/12/2003
-  endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Include Versiunea 5.01, Versiunea 5.02, Versiunea 5.03, Versiunea 5.04, Versiunea 6.01, Versiunea 6.02, Versiunea 6.1, Versiunea 6.1.1 Update, Versiunea 7, Versiunea 7.01"
+  - version: Original Release
+    startDate: 11/12/2003
+    endDate: 01/13/2009
+content: |+
+
+
+  > [!NOTE]
+  > Include Versiunea 5.01, Versiunea 5.02, Versiunea 5.03, Versiunea 5.04, Versiunea 6.01, Versiunea 6.02, Versiunea 6.1, Versiunea 6.1.1 Update, Versiunea 7, Versiunea 7.01

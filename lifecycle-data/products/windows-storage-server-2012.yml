@@ -3,29 +3,32 @@ metadata:
   title: Windows Storage Server 2012
   description: Windows Storage Server 2012 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/10/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 9626cd83f310a08921530211ad3dab10456c0aee
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002253"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2012
-summary: >+
+summary: |+
   Windows Storage Server 2012 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
-
 
   Acest lucru se aplică următoarelor ediții: Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Suportul mainstream și extins pentru acest produs a fost extins pentru a oferi clienților cronologia de tranziție a ciclului de viață standard.\n\n## <a name=\"editions\"></a>Ediții \n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>Linkuri 
+  * [Instrucțiuni pentru migrare](/windows-server/upgrade/upgrade-2012-to-2016)
+
+  > [!NOTE]
+  > Suportul mainstream și extins pentru acest produs a fost extins pentru a oferi clienților cronologia de tranziție a ciclului de viață standard.
+
+  ## <a name="editions"></a>Ediții 
+  * Standard
+  * Workgroup

@@ -3,25 +3,26 @@ metadata:
   title: Internet Explorer 10
   description: Internet Explorer 10 urmează Politica privind ciclul de viață al componentelor.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860950"
 name: Internet Explorer 10
-summary: >+
+summary: |+
   Internet Explorer 10 urmează Politica privind ciclul de viață al [componentelor](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 10/30/2012
   end: 01/31/2020
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Întrebări frecvente despre politica privind ciclul de viață internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Vizitați Întrebări frecvente despre ciclul de viață al Internet Explorer pentru o listă de sisteme de operare acceptate și combinații de browsere."
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/31/2020
+content: |+
+
+  ## <a name="links"></a>Linkuri 
+  * [Instrucțiuni pentru migrare](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)
+  * [Întrebări frecvente despre politica privind ciclul de viață internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Vizitați Întrebări frecvente despre ciclul de viață al Internet Explorer pentru o listă de sisteme de operare acceptate și combinații de browsere.
