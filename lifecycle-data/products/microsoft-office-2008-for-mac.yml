@@ -3,29 +3,40 @@ metadata:
   title: Microsoft Office 2008 pentru Mac
   description: Microsoft Office 2008 pentru Mac urmează Politica fixă privind ciclul de viață.
   ms.date: 09/01/2020
-  keywords: Business,Home and Student,Special Media Editon
-  ms.openlocfilehash: ba599ca4191c7e1a219f31d77797c9799adeca7c
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162420"
+  keywords: 'Business,Home and Student,Special Media Editon'
 name: Microsoft Office 2008 pentru Mac
-summary: "Microsoft Office 2008 pentru Mac urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\nAceasta se aplică edițiilor următoare: Business, Home and Student, Special Media Edition\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. \n"
+summary: |
+  Microsoft Office 2008 pentru Mac urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
+
+  Aceasta se aplică edițiilor următoare: Business, Home and Student, Special Media Edition
+
+  > [!IMPORTANT]
+  > Suportul pentru acest produs s-a încheiat. 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/15/2008
   end: 04/09/2013
 releases:
-- version: Service Pack 2
-  startDate: 07/20/2009
-  endDate: 04/09/2013
-- version: Service Pack 1
-  startDate: 05/13/2008
-  endDate: 10/12/2010
-- version: Original Release
-  startDate: 01/15/2008
-  endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Data de început pentru Office 2008 pentru Mac Special Media Edition este 12 martie 2008.\n\n## <a name=\"editions\"></a>Ediții \n* Business\n* Home and Student\n* Special Media Edition"
+  - version: Service Pack 2
+    startDate: 07/20/2009
+    endDate: 04/09/2013
+  - version: Service Pack 1
+    startDate: 05/13/2008
+    endDate: 10/12/2010
+  - version: Original Release
+    startDate: 01/15/2008
+    endDate: 07/14/2009
+content: |
+
+  ## <a name="links"></a>Linkuri 
+  * [Politica Service Pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Data de început pentru Office 2008 pentru Mac Special Media Edition este 12 martie 2008.
+
+  ## <a name="editions"></a>Ediții 
+  * Business
+  * Home and Student
+  * Special Media Edition
