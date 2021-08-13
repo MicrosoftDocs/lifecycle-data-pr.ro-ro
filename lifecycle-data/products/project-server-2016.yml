@@ -4,26 +4,24 @@ metadata:
   description: Project Server 2016 urmează Politica fixă privind ciclul de viață.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: a9dc96cf8e5a99917a0a31ccc23a413d9ff61ccc
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941461"
 name: Project Server 2016
-summary: >+
+summary: |+
   Project Server 2016 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 05/01/2016
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 05/01/2016
-  endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> Consultați [documentația pentru produse](https://docs.microsoft.com/project/project-server-2013-and-2016) și [dezvoltatori](https://developer.microsoft.com/project/docs)."
+  - version: Original Release
+    startDate: 05/01/2016
+    endDate: 07/14/2026
+content: |+
+
+
+  > [!NOTE]
+  > Consultați [documentația pentru produse](https://docs.microsoft.com/project/project-server-2013-and-2016) și [dezvoltatori](https://developer.microsoft.com/project/docs).

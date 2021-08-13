@@ -3,33 +3,33 @@ metadata:
   title: SoftGrid Application Virtualization
   description: SoftGrid Application Virtualization urmează Politica fixă privind ciclul de viață.
   ms.date: 09/10/2020
-  keywords: 4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1
-  ms.openlocfilehash: 5009a44f0d0ab2b180f62474de8f4d4bb01e3e62
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001032"
+  keywords: '4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1'
 name: SoftGrid Application Virtualization
-summary: >
+summary: |
   SoftGrid Application Virtualization urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
-
 
   Aceasta se aplică edițiilor următoare: 4.1 for Desktops, 4.2 for Desktops, for Terminal Services 4.1
 
-
   > [!IMPORTANT]
-
   > Suportul s-a încheiat. A se vedea orientările privind migrarea de mai jos.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/25/2007
   end: 07/10/2012
   extendedEnd: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 05/25/2007
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Ediții \n* 4.1 for Desktops\n* 4.2 for Desktops\n* for Terminal Services 4.1"
+  - version: Original Release
+    startDate: 05/25/2007
+    endDate: 07/11/2017
+content: |
+
+  ## <a name="links"></a>Linkuri 
+  * [Instrucțiuni pentru migrare](https://technet.microsoft.com/en-us/windows/bb899442)
+
+
+  ## <a name="editions"></a>Ediții 
+  * 4.1 for Desktops
+  * 4.2 for Desktops
+  * for Terminal Services 4.1
