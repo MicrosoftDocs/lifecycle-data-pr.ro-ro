@@ -3,23 +3,20 @@ metadata:
   title: Pachet individual Service Fabric pentru Windows Server
   description: Pachetul individual Service Fabric pentru Windows Server urmează Politica modernă privind ciclul de viață.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: ro-RO
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "861107"
 name: Pachet individual Service Fabric pentru Windows Server
-summary: >+
+summary: |+
   Pachetul individual Service Fabric pentru Windows Server respectă Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
 
 
 products:
-- windows
+  - windows
 policyType: modern-online
 supportDates:
   start: 09/26/2016
 releases:
-- version: Original Release
-  startDate: 09/26/2016
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Informații despre servicii](/azure/service-fabric/service-fabric-support)"
+  - version: Original Release
+    startDate: 09/26/2016
+content: |+
+
+  ## <a name="links"></a>Linkuri 
+  * [Informații despre servicii](/azure/service-fabric/service-fabric-support)
