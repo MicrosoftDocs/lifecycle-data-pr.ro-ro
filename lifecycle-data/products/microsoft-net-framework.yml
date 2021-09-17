@@ -2,23 +2,26 @@
 metadata:
   title: Microsoft .NET Framework
   description: Microsoft .NET Framework urmează Politica privind ciclul de viață al componentelor.
-  ms.date: 04/26/2021
+  ms.date: 09/13/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: 8d6d645959c8da911aa7dead4718fb998116c8481890468df0f552c9edd8bd9a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f49285dd25e5227b9903b04ab1a7e82f720a3233
+  ms.sourcegitcommit: 997d3fcd1eb2b32835a349b558316fb0ae245510
   ms.translationtype: HT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2489571"
+  ms.lasthandoff: 09/15/2021
+  ms.locfileid: "3452640"
 name: Microsoft .NET Framework
-summary: >
+summary: >+
   Microsoft .NET Framework urmează Politica privind ciclul de viață al [componentelor](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
   > .NET Framework 4.5.2, 4.6 și 4.6.1 vor fi retrase pe 26 aprilie 2022. Aceste versiuni specifice au fost semnate anterior utilizând certificate Secure Hash Algorithm (SHA-1). Acest algoritm nu mai este considerat sigur. Clienții sunt încurajați să treacă la SHA-2. Accesați [aici](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022) pentru a afla mai multe.
+
 products:
 - dotnet
 policyType: component
@@ -50,6 +53,9 @@ releases:
 - version: .NET Framework 4.5
   startDate: 10/09/2012
   endDate: 01/12/2016
+- version: .NET Framework 4.0
+  startDate: 04/12/2010
+  endDate: 01/12/2016
 - version: .NET Framework 3.5 Service Pack 1
   startDate: 11/19/2007
   endDate: 01/09/2029
@@ -59,4 +65,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linkuri \n* [Întrebări frecvente despre ciclul de viață - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informații despre produs](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 4.5.2, 4.6, 4.61 vor fi retrase](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) este un produs independent care urmează Politica fixă, începând cu Windows 10 versiunea 1809 și Windows Server 2019. Înainte de aceasta, .NET Framework 3.5 SP1 este considerat o componentă a sistemului de operare Windows pe care este instalat."
+content: "\n\n## <a name=\"links\"></a>Linkuri \n* [Întrebări frecvente despre ciclul de viață - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informații despre produs](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 4.5.2, 4.6, 4.61 vor fi retrase](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) este un produs independent care urmează Politica fixă, începând cu Windows 10 versiunea 1809 și Windows Server 2019. Înainte de aceasta, .NET Framework 3.5 SP1 este considerat o componentă a sistemului de operare Windows pe care este instalat."
