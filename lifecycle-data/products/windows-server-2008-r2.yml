@@ -2,54 +2,40 @@
 metadata:
   title: Windows Server 2008 R2
   description: Windows Server 2008 R2 urmează Politica fixă privind ciclul de viață.
-  ms.date: 04/23/2021
-  keywords: null
+  ms.date: 08/31/2021
+  keywords: 
+  ms.openlocfilehash: 0457a4bed39d146651578578c7e76dbb60d45ac3
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.translationtype: HT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460580"
 name: Windows Server 2008 R2
-summary: |
-  Windows Server 2008 R2 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
-
-  Aceasta se aplică edițiilor următoare: Datacenter, Enterprise, HPC Edition, Itanium-Based Systems, Standard, Web
-
-  > [!IMPORTANT]
-  > Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrarea de mai jos. 
+summary: "Windows Server 2008 R2 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.\n\n\nAceasta se aplică edițiilor următoare: Datacenter, Enterprise, HPC Edition, Itanium-Based Systems, Standard, Web\n\n\n> [!IMPORTANT]\n> Suportul pentru acest produs s-a încheiat. A se vedea orientările privind migrarea de mai jos. \n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 01/11/2022
-    endDate: 01/10/2023
-  - version: Extended Security Update Year 2
-    startDate: 01/12/2021
-    endDate: 01/11/2022
-  - version: Extended Security Update Year 1
-    startDate: 01/14/2020
-    endDate: 01/12/2021
-  - version: Service Pack 1
-    startDate: 02/22/2011
-    endDate: 01/14/2020
-  - version: Original Release
-    startDate: 10/22/2009
-    endDate: 04/09/2013
-content: |
-  > [!TIP]
-  > Actualizările extinse de securitate (ESU) sunt disponibile prin programe specifice de licențiere de volum pentru edițiile Datacenter, Standard, Enterprise și Embedded ale acestui produs, timp de până la trei ani suplimentari de la data de sfârșit al perioadei de asistență. Contactați partenerul Microsoft sau echipa de cont pentru a afla mai multe. 
-
-  ## <a name="links"></a>Linkuri 
-  * [Instrucțiuni pentru migrare](https://aka.ms/AA1ovn4)
-  * [Informații upgrade server](/windows-server/upgrade/upgrade-overview)
-  * [Programul privind actualizările extinse de securitate (ESU)](/lifecycle/faq/extended-security-updates)
-  * [Politica Service Pack](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>Ediții 
-  * Datacenter
-  * Enterprise
-  * HPC Edition
-  * Itanium-Based Systems
-  * Standard
-  * Web
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 01/11/2023
+  endDate: 01/09/2024
+- version: Extended Security Update Year 3
+  startDate: 01/12/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/13/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> Actualizările extinse de securitate (ESU) sunt disponibile prin programe specifice de licențiere de volum pentru edițiile Datacenter, Standard, Enterprise și Embedded ale acestui produs, timp de până la trei ani suplimentari de la data de sfârșit al perioadei de asistență. Contactați partenerul Microsoft sau echipa de cont pentru a afla mai multe. \n\n\n## <a name=\"links\"></a>Linkuri \n* [Instrucțiuni pentru migrare](https://aka.ms/AA1ovn4)\n* [Informații upgrade server](/windows-server/upgrade/upgrade-overview)\n* [Programul privind actualizările extinse de securitate (ESU)](/lifecycle/faq/extended-security-updates)\n* [Politica Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n\n\n## <a name=\"editions\"></a>Ediții \n* Datacenter\n* Enterprise\n* HPC Edition\n* Itanium-Based Systems\n* Standard\n* Web"
