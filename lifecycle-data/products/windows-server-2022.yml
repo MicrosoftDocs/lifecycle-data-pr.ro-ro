@@ -2,21 +2,21 @@
 metadata:
   title: Windows Server 2022
   description: Windows Server 2022 urmează Politica fixă privind ciclul de viață.
-  ms.date: 08/31/2021
+  ms.date: 09/23/2021
   keywords: 
-  ms.openlocfilehash: 8c3cf914c65ac5fe4d13296398a4f0bea73eb7f8
-  ms.sourcegitcommit: acb9601132598295da5c9f5a537f1a1af401417a
+  ms.openlocfilehash: 1ed53da378c243b1cb45d78aeb9770a1f6ec3e1d
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
   ms.translationtype: HT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 09/01/2021
-  ms.locfileid: "3173049"
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508029"
 name: Windows Server 2022
 summary: >+
   Windows Server 2022 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 
-  Aceasta se aplică edițiilor următoare: Datacenter, Datacenter: Azure Edition, Standard
+  Aceasta se aplică edițiilor următoare: Centru de date, Centru de date: ediția Azure, Standard
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 08/18/2021
   endDate: 10/14/2031
-content: "\n\n## <a name=\"links\"></a>Linkuri \n* [Întrebări frecvente despre ciclul de viață - Windows](/lifecycle/faq/windows)\n* [Informații despre produs](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Containerele lansate cu Windows Server 2022 urmează aceleași date ale ciclului de viață. \n\n\n## <a name=\"editions\"></a>Ediții \n* Datacenter\n* Datacenter: Azure Edition\n* Standard"
+content: "> [!TIP]\n> Microsoft Edge respectă [Politica modernă privind ciclul de viață](https://docs.microsoft.com/lifecycle/policies/modern). Consultați [documentația Edge privind ciclul de viață](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) pentru a vedea cum să mențineți acest browser actualizat și la asistență.\n\n\n## <a name=\"links\"></a>Linkuri \n* [Întrebări frecvente despre ciclul de viață - Windows](/lifecycle/faq/windows)\n* [Informații despre produs](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Containerele lansate cu Windows Server 2022 urmează aceleași date ale ciclului de viață. \n\n\n## <a name=\"editions\"></a>Ediții \n* Datacenter\n* Datacenter: Azure Edition\n* Essentials\n* Standard"
