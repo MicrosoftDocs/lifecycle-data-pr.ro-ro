@@ -2,53 +2,39 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 urmează Politica fixă privind ciclul de viață.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509189"
 name: Visual Studio 2012
-summary: |+
+summary: >+
   Visual Studio 2012 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
-  Aceasta se aplică edițiilor următoare: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+
+
+  Aceasta se aplică edițiilor următoare: Express for Web, Express for Windows Desktop, Premium, Professional, Team Explorer, Ultimate
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-  - version: Update 5
-    startDate: 08/21/2015
-    endDate: 01/10/2023
-  - version: Update 4
-    startDate: 11/12/2013
-    endDate: 10/08/2019
-  - version: Original Release
-    startDate: 10/31/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>Linkuri 
-  * [Ciclul de viață și modelul de servicii ale produsului Visual Studio](/visualstudio/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Ediții 
-  * Agents
-  * Community 2013
-  * Express for Web
-  * Express for Windows 8
-  * Express for Windows Desktop
-  * IntelliTrace Collector
-  * Microsoft Azure Tools
-  * Premium
-  * Professional
-  * Remote Tools
-  * Shell (Integrated)
-  * Shell (Isolated)
-  * SQL Server Data Tools
-  * Team Explorer
-  * Test Professional 2013
-  * Ultimate
-  * Visual C++ Redistributable
-  * Web Tools Extensions
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n\n## <a name=\"links\"></a>Linkuri \n* [Informații de service pentru versiunile mai vechi de Visual Studio](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Politica Service Pack](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Versiunile Visual Studio 2012 ale următoarelor componente sunt livrate cu și acceptate ca parte a ciclului de viață Visual Studio 2012: Agents, IntelliTrace Collector, Microsoft Azure Tools, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Visual C++ Redistributable, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Ediții \n* Express for Web\n* Express for Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
