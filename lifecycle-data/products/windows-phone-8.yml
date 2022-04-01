@@ -3,22 +3,24 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 urmează Politica fixă privind ciclul de viață.
   ms.date: 08/19/2020
+  ms.openlocfilehash: 5a8f766aa020ac762ccbd5c07504c2880bb5190a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118083"
 name: Windows Phone 8
-summary: |+
+summary: >+
   Windows Phone 8 urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 12/14/2012
-  end: 07/08/2014
+  start: 2012-12-14T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/14/2012
-content: |+
-
-
-  > [!NOTE]
-  > Microsoft va pune la dispoziție actualizări pentru sistemul de operare, inclusiv actualizări de securitate, timp de 36 de luni de la data de început al ciclului de viață. Aceste actualizări vor fi incrementale, fiecare actualizare fiind construită pe actualizarea care a precedat-o. Clienții trebuie să instaleze fiecare actualizare lansată pentru a continua să beneficieze de asistență. Distribuția acestor actualizări incrementale poate fi controlată de operatorul de telefonie mobilă sau de către producătorul de telefoane de la care ați achiziționat telefonul, iar instalarea va necesita ca telefonul să aibă actualizări anterioare. Disponibilitatea actualizărilor va varia, de asemenea, în funcție de țară, de regiune și de capacitățile hardware.
+- version: Original Release
+  startDate: 2012-12-14T00:00:00.000-08:00
+content: "\n\n> [!NOTE]\n> Microsoft va pune la dispoziție actualizări pentru sistemul de operare, inclusiv actualizări de securitate, timp de 36 de luni de la data de început al ciclului de viață. Aceste actualizări vor fi incrementale, fiecare actualizare fiind construită pe actualizarea care a precedat-o. Clienții trebuie să instaleze fiecare actualizare lansată pentru a continua să beneficieze de asistență. Distribuția acestor actualizări incrementale poate fi controlată de operatorul de telefonie mobilă sau de către producătorul de telefoane de la care ați achiziționat telefonul, iar instalarea va necesita ca telefonul să aibă actualizări anterioare. Disponibilitatea actualizărilor va varia, de asemenea, în funcție de țară, de regiune și de capacitățile hardware."

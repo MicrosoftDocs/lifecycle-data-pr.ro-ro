@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2026
 description: Descoperiți ce produse vor fi retrase, vor ajunge la sfârșitul perioadei de asistență sau vor trece de la suportul mainstream la suportul extins în 2026.
-ms.date: 11/03/2021
-ms.openlocfilehash: 7b0d2936cec825b1f029b1c891d36fea3ec916c0
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 03/09/2022
+ms.openlocfilehash: 8528b1bc53c7cf9550aa70eacbd8c389eb5fad8a
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4029374"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117121"
 ---
 # <a name="products-ending-support-in-2026"></a>Produse care nu vor mai beneficia de asistență în 2026
 
@@ -35,7 +35,7 @@ Următoarele produse și versiuni, reglementate de [Politica fixă](/lifecycle/p
 
 | Produs | Data de sfârșit al perioadei de asistență |
 | --- | --- |
-| [Advanced Threat Analytics 1.X](/lifecycle/products/advanced-threat-analytics-1x?branch=live)<br>[Aplicații Dynamics 365 for Customer Engagement, versiunea 9 (actualizare locală)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Dynamics CRM 2016 (Dynamics 365)](/lifecycle/products/dynamics-crm-2016-dynamics-365?branch=live)<br>[Microsoft Identity Manager 2016](/lifecycle/products/microsoft-identity-manager-2016?branch=live)<br> | 13/1/2026 |
+| [Advanced Threat Analytics 1.X](/lifecycle/products/advanced-threat-analytics-1x?branch=live)<br>[Dynamics CRM 2016 (Dynamics 365)](/lifecycle/products/dynamics-crm-2016-dynamics-365?branch=live)<br>[Microsoft Identity Manager 2016](/lifecycle/products/microsoft-identity-manager-2016?branch=live)<br> | 13/1/2026 |
 | [Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System)](/lifecycle/products/microsoft-sql-server-2012-parallel-data-warehouse-analytics-platform-system?branch=live)<br> | marţi, 31 martie 2026 |
 | [Dynamics C5 2016](/lifecycle/products/dynamics-c5-2016?branch=live)<br>[Dynamics NAV 2016](/lifecycle/products/dynamics-nav-2016?branch=live)<br>[Microsoft Advanced Group Policy Management 4.0](/lifecycle/products/microsoft-advanced-group-policy-management-40?branch=live)<br>[Microsoft Application Virtualization 5.0](/lifecycle/products/microsoft-application-virtualization-50?branch=live)<br>[Microsoft Application Virtualization 5.1](/lifecycle/products/microsoft-application-virtualization-51?branch=live)<br>[Microsoft Application Virtualization Hosting 5.0 for Windows Desktops](/lifecycle/products/microsoft-application-virtualization-hosting-50?branch=live)<br>[Microsoft Application Virtualization Hosting 5.1 for Windows Desktops](/lifecycle/products/microsoft-application-virtualization-hosting-51?branch=live)<br>[Administrare și monitorizare Microsoft BitLocker 2.5](/lifecycle/products/microsoft-bitlocker-administration-and-monitoring-25?branch=live)<br>[Set de instrumente de diagnostic și recuperare Microsoft 10.0](/lifecycle/products/microsoft-diagnostics-and-recovery-toolset-100?branch=live)<br>[User Experience Virtualization (UE-V) 2.1](/lifecycle/products/user-experience-virtualization-uev-21?branch=live)<br> | 14 aprilie 2026 |
 | [Dynamics GP 2016](/lifecycle/products/dynamics-gp-2016?branch=live)<br>[Dynamics GP 2016 R2](/lifecycle/products/dynamics-gp-2016-r2?branch=live)<br>[InfoPath 2013](/lifecycle/products/infopath-2013?branch=live)<br>[Project Server 2016](/lifecycle/products/project-server-2016?branch=live)<br>[Project Server 2019](/lifecycle/products/project-server-2019?branch=live)<br>[SharePoint Designer 2013](/lifecycle/products/sharepoint-designer-2013?branch=live)<br>[SharePoint Server 2016](/lifecycle/products/sharepoint-server-2016?branch=live)<br>[SharePoint Server 2019](/lifecycle/products/sharepoint-server-2019?branch=live)<br>[SQL Server 2016](/lifecycle/products/sql-server-2016?branch=live)<br> | marţi, 14 iulie 2026 |

@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2021
 description: Descoperiți ce produse vor fi retrase, vor ajunge la sfârșitul perioadei de asistență sau vor trece de la suportul mainstream la suportul extins în 2021.
-ms.date: 11/03/2021
-ms.openlocfilehash: a3404257f04c2f022e648e067f78204a220bd3fc
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 01/14/2022
+ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4029259"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117491"
 ---
 # <a name="products-ending-support-in-2021"></a>Produse care nu vor mai beneficia de asistență în 2021
 
@@ -24,7 +24,7 @@ Următoarele produse, reglementate de [Politica modernă](/lifecycle/policies/m
 
 | Produs | Retragere |
 | --- | --- |
-| [Client Azure Information Protection](/lifecycle/products/azure-information-protection-client?branch=live)<br> | 31 martie 2021 |
+| [Client Azure Information Protection clasic](/lifecycle/products/azure-information-protection-classic-client?branch=live)<br> | 31 martie 2021 |
 | [Azure Dev Spaces](/lifecycle/products/azure-dev-spaces?branch=live)<br> | sâmbătă, 15 mai 2021 |
 | [Skype for Business Online](/lifecycle/products/skype-for-business-online?branch=live)<br> | sâmbătă, 31 iulie 2021 |
 | [Dynamics 365 Layout](/lifecycle/products/dynamics-365-layout?branch=live)<br> | vineri, 31 decembrie 2021 |
@@ -39,7 +39,7 @@ Următoarele produse și versiuni, reglementate de [Politica modernă](/lifecycl
 | [Microsoft Endpoint Configuration Manager, versiunea 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | marţi, 26 ianuarie 2021 |
 | [Dynamics 365 Business Central local (Politica modernă), versiunea 2019, valul 2, versiunea 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 aprilie 2021 |
 | [Windows 10 Enterprise and Education, versiunea 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise and Education, versiunea 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, versiunea 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versiunea 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, versiunea 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versiunea 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 mai 2021 |
-| [Microsoft Endpoint Configuration Manager, versiunea 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | sâmbătă, 29 mai 2021 |
+| [Microsoft Endpoint Configuration Manager, versiunea 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, versiunea 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | sâmbătă, 29 mai 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | sâmbătă, 21 august 2021 |
 | [Microsoft Endpoint Configuration Manager, versiunea 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | vineri, 1 octombrie 2021 |
 | [Dynamics 365 Business Central local (Politica modernă), versiunea 2020, valul 1, versiunea 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 octombrie 2021 |

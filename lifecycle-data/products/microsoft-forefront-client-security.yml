@@ -3,25 +3,25 @@ metadata:
   title: Microsoft Forefront Client Security
   description: Microsoft Forefront Client Security urmează Politica fixă privind ciclul de viață.
   ms.date: 08/28/2020
+  ms.openlocfilehash: d85aea21441458397839241e74939536051397d4
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4113421"
 name: Microsoft Forefront Client Security
-summary: |+
+summary: >+
   Microsoft Forefront Client Security urmează Politica [fixă](/lifecycle/policies/fixed) privind ciclul de viață.
 
 
 products:
-  - msc
+- msc
 policyType: fixed
 supportDates:
-  start: 08/02/2007
-  extendedEnd: 07/14/2015
+  start: 2007-08-02T00:00:00.000-08:00
+  extendedEnd: 2015-07-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 08/02/2007
-    endDate: 07/14/2015
-content: |+
-
-  ## <a name="links"></a>Linkuri 
-  * [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)
-
-  > [!NOTE]
-  > Forefront Client Security a fost întreruptă începând cu 14 iulie 2015. Actualizările de definiție antimalware și antispyware nu vor mai fi disponibile după data de sfârșit al perioadei de asistență pentru versiunea produsului. Evaluați System Center Endpoint Protection ca înlocuitor.
+- version: Original Release
+  startDate: 2007-08-02T00:00:00.000-08:00
+  endDate: 2015-07-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Linkuri \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security a fost întreruptă începând cu 14 iulie 2015. Actualizările de definiție antimalware și antispyware nu vor mai fi disponibile după data de sfârșit al perioadei de asistență pentru versiunea produsului. Evaluați System Center Endpoint Protection ca înlocuitor."

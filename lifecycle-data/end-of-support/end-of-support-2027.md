@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2027
 description: Descoperiți ce produse vor fi retrase, vor ajunge la sfârșitul perioadei de asistență sau vor trece de la suportul mainstream la suportul extins în 2027.
-ms.date: 08/25/2021
-ms.openlocfilehash: c4dd10c91b7fbc0378c2b653edaeb485a8829222
-ms.sourcegitcommit: 45b05baa69f8e2288d323e8324b0113adadda463
+ms.date: 03/09/2022
+ms.openlocfilehash: c9c996d5f6ea11d9d413b309dd3bb4e673b02a14
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "4028726"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117047"
 ---
 # <a name="products-ending-support-in-2027"></a>Produse care nu vor mai beneficia de asistență în 2027
 
@@ -29,8 +29,15 @@ Următoarele produse și versiuni, reglementate de [Politica fixă](/lifecycle/p
 | Produs | Data de sfârșit al perioadei de asistență |
 | --- | --- |
 | [BizTalk Server 2016](/lifecycle/products/biztalk-server-2016?branch=live)<br>[Dynamics NAV 2017](/lifecycle/products/dynamics-nav-2017?branch=live)<br>[Microsoft Host Integration Server 2016](/lifecycle/products/microsoft-host-integration-server-2016?branch=live)<br>[System Center 2016 Data Protection](/lifecycle/products/system-center-2016-data-protection?branch=live)<br>[System Center 2016 Operations Manager](/lifecycle/products/system-center-2016-operations-manager?branch=live)<br>[System Center 2016 Orchestrator](/lifecycle/products/system-center-2016-orchestrator?branch=live)<br>[System Center 2016 Service Manager](/lifecycle/products/system-center-2016-service-manager?branch=live)<br>[System Center 2016 Virtual Machine Manager](/lifecycle/products/system-center-2016-virtual-machine-manager?branch=live)<br>[Visual Studio Team Foundation Server 2017](/lifecycle/products/visual-studio-team-foundation-server-2017?branch=live)<br> | luni, 11 ianuarie 2027 |
-| [HPC Pack 2016](/lifecycle/products/hpc-pack-2016?branch=live)<br>[Hyper-V Server 2016](/lifecycle/products/hyperv-server-2016?branch=live)<br>[Internet Information Services (IIS), IIS 10 pe Windows Server 2016](/lifecycle/products/internet-information-services-iis?branch=live)<br>[Microsoft System Center Configuration Manager (LTSB - versiunea 1606)](/lifecycle/products/microsoft-system-center-configuration-manager-ltsb-version-1606?branch=live)<br>[Pachet Windows Azure (pe Windows Server 2016)](/lifecycle/products/windows-azure-pack-on-windows-server-2016?branch=live)<br>[Windows Defender pentru Windows Server 2016](/lifecycle/products/windows-defender-for-windows-server-2016?branch=live)<br>[Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)<br>[Windows Server Update Services pentru Windows Server 2016](/lifecycle/products/windows-server-update-services-for-windows-server-2016?branch=live)<br>[Windows Storage Server 2016](/lifecycle/products/windows-storage-server-2016?branch=live)<br> | marţi, 12 ianuarie 2027 |
+| [HPC Pack 2016](/lifecycle/products/hpc-pack-2016?branch=live)<br>[Hyper-V Server 2016](/lifecycle/products/hyperv-server-2016?branch=live)<br>[Internet Information Services (IIS), IIS 10 pe Windows Server 2016](/lifecycle/products/internet-information-services-iis?branch=live)<br>[Microsoft System Center Configuration Manager (LTSB - versiunea 1606)](/lifecycle/products/microsoft-system-center-configuration-manager-ltsb-version-1606?branch=live)<br>[Windows 10 Enterprise LTSC 2021](/lifecycle/products/windows-10-enterprise-ltsc-2021?branch=live)<br>[Pachet Windows Azure (pe Windows Server 2016)](/lifecycle/products/windows-azure-pack-on-windows-server-2016?branch=live)<br>[Windows Defender pentru Windows Server 2016](/lifecycle/products/windows-defender-for-windows-server-2016?branch=live)<br>[Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)<br>[Windows Server Update Services pentru Windows Server 2016](/lifecycle/products/windows-server-update-services-for-windows-server-2016?branch=live)<br>[Windows Storage Server 2016](/lifecycle/products/windows-storage-server-2016?branch=live)<br> | marţi, 12 ianuarie 2027 |
 | [Visual Studio 2017](/lifecycle/products/visual-studio-2017?branch=live)<br> | marţi, 13 aprilie 2027 |
 | [SQL Server 2017](/lifecycle/products/sql-server-2017?branch=live)<br> | marţi, 12 octombrie 2027 |
 
 
+## <a name="products-moving-to-extended-support"></a>Produse care trec la Asistența extinsă
+
+Următoarele produse vor trece de la suportul Mainstream la suportul Extins în 2027. Suportul extins include actualizări de securitate fără costuri, precum și actualizări și asistență plătite, care nu sunt legate de securitate. În plus, Microsoft nu va accepta solicitări de modificări de proiectare sau caracteristici noi în timpul fazei de suport extins.
+
+| Produs | Dată de sfârșit al perioadei de suport mainstream |
+| --- | --- |
+| [Aplicații Dynamics 365 for Customer Engagement, versiunea 9 (actualizare locală)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | marţi, 12 ianuarie 2027 |

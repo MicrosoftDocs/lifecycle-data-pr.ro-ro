@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2016
 description: Descoperiți ce produse vor fi retrase, vor ajunge la sfârșitul perioadei de asistență sau vor trece de la suportul mainstream la suportul extins în 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028899"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117565"
 ---
 # <a name="products-ending-support-in-2016"></a>Produse care nu vor mai beneficia de asistență în 2016
 
@@ -20,13 +20,6 @@ Dacă aveți întrebări cu privire la asistența pentru un produs, vă rugăm s
 
 
 
-## <a name="release-end-of-servicing"></a>Data de sfârșit al perioadei de servicii
-
-Următoarele produse și versiuni, reglementate de [Politica modernă](/lifecycle/policies/modern) vor ajunge la data de sfârșit a perioadei de asistență în 2016.
-
-| Produs | Data de sfârșit al perioadei de servicii |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, versiunea 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | joi, 8 decembrie 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produsele au atins sfârșitul perioadei de asistență

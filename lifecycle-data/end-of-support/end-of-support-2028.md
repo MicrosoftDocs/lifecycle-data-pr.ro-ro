@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2028
 description: Descoperiți ce produse vor fi retrase, vor ajunge la sfârșitul perioadei de asistență sau vor trece de la suportul mainstream la suportul extins în 2028.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028547"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116973"
 ---
 # <a name="products-ending-support-in-2028"></a>Produse care nu vor mai beneficia de asistență în 2028
 
@@ -39,3 +39,11 @@ Următoarele produse și versiuni, reglementate de [Politica fixă](/lifecycle/p
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | marţi, 11 iulie 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Produse care trec la Asistența extinsă
+
+Următoarele produse vor trece de la suportul Mainstream la suportul Extins în 2028. Suportul extins include actualizări de securitate fără costuri, precum și actualizări și asistență plătite, care nu sunt legate de securitate. În plus, Microsoft nu va accepta solicitări de modificări de proiectare sau caracteristici noi în timpul fazei de suport extins.
+
+| Produs | Dată de sfârșit al perioadei de suport mainstream |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | marţi, 11 aprilie 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | marţi, 11 iulie 2028 |

@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2030
 description: Descoperiți ce produse vor fi retrase, vor ajunge la sfârșitul perioadei de asistență sau vor trece de la suportul mainstream la suportul extins în 2030.
-ms.date: 08/11/2021
-ms.openlocfilehash: fc4571cb7bd8cfad504c5a3f2e677320c9a2fab6
-ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
+ms.date: 01/26/2022
+ms.openlocfilehash: 15c0ded025a177c10f89e1839eb8c2da7c82daba
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "4028694"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116825"
 ---
 # <a name="products-ending-support-in-2030"></a>Produse care nu vor mai beneficia de asistență în 2030
 
@@ -29,6 +29,7 @@ Următoarele produse și versiuni, reglementate de [Politica fixă](/lifecycle/p
 | Produs | Data de sfârșit al perioadei de asistență |
 | --- | --- |
 | [SQL Server 2019](/lifecycle/products/sql-server-2019?branch=live)<br> | marţi, 8 ianuarie 2030 |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | marţi, 9 aprilie 2030 |
 | [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | marţi, 9 iulie 2030 |
 | [Azure DevOps Server 2020](/lifecycle/products/azure-devops-server-2020?branch=live)<br>[Microsoft Robotics](/lifecycle/products/microsoft-robotics?branch=live)<br> | marţi, 8 octombrie 2030 |
 
