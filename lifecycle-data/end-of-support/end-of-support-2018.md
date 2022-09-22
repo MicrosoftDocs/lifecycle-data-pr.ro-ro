@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2018
 description: Descoperiți ce produse vor fi retrase, vor ajunge la sfârșitul perioadei de asistență sau vor trece de la suportul mainstream la suportul extins în 2018.
-ms.date: 09/17/2021
-ms.openlocfilehash: ef79682a4e68c31ab569281f438557d6d71b11ea
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 657bdb28ba9fa0c5151cb9a394d9ade3af39a2b3
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028758"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518280"
 ---
 # <a name="products-ending-support-in-2018"></a>Produse care nu vor mai beneficia de asistență în 2018
 

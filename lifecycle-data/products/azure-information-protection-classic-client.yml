@@ -2,14 +2,14 @@
 metadata:
   title: Client Azure Information Protection clasic
   description: Clientul Azure Information Protection clasic urmează Politica modernă privind ciclul de viață.
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: ro-RO
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4157255"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518650"
 name: Client Azure Information Protection clasic
 summary: >+
   Clientul Azure Information Protection clasic urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.

@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2020
 description: Aflați ce produse se vor retrage, vor ajunge la data de sfârșit al perioadei de asistență sau vor trece de la suportul mainstream la asistența extinsă în 2020.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117602"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518206"
 ---
 # <a name="products-ending-support-in-2020"></a>Produse care nu vor mai beneficia de asistență în 2020
 
@@ -38,7 +38,7 @@ Următoarele produse și versiuni, reglementate de [Politica modernă](/lifecycl
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, versiunea 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | vineri, 31 ianuarie 2020 |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | marţi, 3 martie 2020 |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | vineri, 4 septembrie 2020 |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | vineri, 4 septembrie 2020 |
 | [Microsoft Endpoint Configuration Manager, versiunea 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | duminică, 27 septembrie 2020 |
 | [Visio Services în SharePoint (în Microsoft 365)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | miercuri, 30 septembrie 2020 |
 | [Windows 10 Enterprise and Education, Versiunea 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, versiunea 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 13 octombrie 2020 |

@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2019
 description: Descoperiți ce produse vor fi retrase, vor ajunge la sfârșitul perioadei de asistență sau vor trece de la suportul mainstream la suportul extins în 2019.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4029191"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518243"
 ---
 # <a name="products-ending-support-in-2019"></a>Produse care nu vor mai beneficia de asistență în 2019
 
@@ -24,7 +24,6 @@ Următoarele produse, reglementate de [Politica modernă](/lifecycle/policies/m
 
 | Produs | Retragere |
 | --- | --- |
-| [Planificator Azure](/lifecycle/products/azure-scheduler?branch=live)<br> | luni, 30 septembrie 2019 |
 | [Aplicație HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | sâmbătă, 16 noiembrie 2019 |
 
 
@@ -34,6 +33,7 @@ Următoarele produse și versiuni, reglementate de [Politica modernă](/lifecycl
 
 | Produs | Data de sfârșit al perioadei de servicii |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | miercuri, 13 februarie 2019 |
 | [Visual Studio pentru Mac, Visual Studio 2017 pentru Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | vineri, 8 martie 2019 |
 | [Windows 10 Enterprise and Education, Versiunea 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, Versiunea 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, versiunea 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, versiunea 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versiunea 1709](/lifecycle/products/windows-server?branch=live)<br> | 9 aprilie 2019 |
 | [Microsoft Endpoint Configuration Manager, versiunea 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | luni, 20 mai 2019 |
