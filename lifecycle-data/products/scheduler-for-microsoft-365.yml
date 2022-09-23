@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Programator pentru Microsoft 365
+  description: Programator pentru Microsoft 365 urmează Politica modernă privind ciclul de viață.
+  ms.date: 09/13/2022
+  keywords: 
+  ms.openlocfilehash: ecf4d8405dc04514e549df826ea56ec7f94e3403
+  ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+  ms.translationtype: HT
+  ms.contentlocale: ro-RO
+  ms.lasthandoff: 09/13/2022
+  ms.locfileid: "4521123"
+name: Programator pentru Microsoft 365
+summary: >+
+  Programator pentru Microsoft 365 urmează Politica [modernă](/lifecycle/policies/modern) privind ciclul de viață.
+
+
+
+
+
+products:
+- m365
+policyType: modern-online
+supportDates:
+  start: 2021-06-08T00:00:00.000-08:00
+  end: 2023-09-01T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2021-06-08T00:00:00.000-08:00
+  endDate: 2023-09-01T22:59:59.999-08:00
+content: ''
