@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2025
 description: Descoperiți ce produse vor fi retrase, vor ajunge la sfârșitul perioadei de asistență sau vor trece de la suportul mainstream la suportul extins în 2025.
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517936"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526168"
 ---
 # <a name="products-ending-support-in-2025"></a>Produse care nu vor mai beneficia de asistență în 2025
 
@@ -27,6 +27,13 @@ Următoarele produse, reglementate de [Politica modernă](/lifecycle/policies/m
 | [Windows 10 Enterprise și Education](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home și Pro](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 14 octombrie 2025 |
 
 
+## <a name="release-end-of-servicing"></a>Data de sfârșit al perioadei de servicii
+
+Următoarele lansări de produse, reglementate de [Politica modernă](/lifecycle/policies/modern) vor ajunge la data de sfârșit a perioadei de asistență în 2025.
+
+| Produs | Data de sfârșit al perioadei de servicii |
+| --- | --- |
+| [Windows 11 Enterprise and Education (versiunea 22H2)](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise (versiunea 22H2)](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 14 octombrie 2025 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produsele au atins sfârșitul perioadei de asistență

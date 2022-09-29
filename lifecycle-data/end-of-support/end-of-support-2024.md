@@ -1,13 +1,13 @@
 ---
 title: Produse pentru care se încheie asistența în 2024
 description: Descoperiți ce produse vor fi retrase, vor ajunge la sfârșitul perioadei de asistență sau vor trece de la suportul mainstream la suportul extins în 2024.
-ms.date: 08/31/2022
-ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/21/2022
+ms.openlocfilehash: a4bd0494685a8d220747b0f76b3e1ba3ea68f78a
+ms.sourcegitcommit: 56d443d7c51462b98387364440f5064d3b61139e
 ms.translationtype: HT
 ms.contentlocale: ro-RO
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4518125"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526953"
 ---
 # <a name="products-ending-support-in-2024"></a>Produse care nu vor mai beneficia de asistență în 2024
 
@@ -34,8 +34,10 @@ Următoarele versiuni de produse, reglementate de [Politica modernă](/lifecycle
 
 | Produs | Data de sfârșit al perioadei de servicii |
 | --- | --- |
+| [Microsoft Endpoint Configuration Manager, versiunea 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | luni, 12 februarie 2024 |
 | [Windows 10 Enterprise and Education, versiunea 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, versiunea 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | marţi, 11 iunie 2024 |
-| [Windows 11 Enterprise și Education (versiunea 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (versiunea 21H2), versiunea originală (versiunea 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 octombrie 2024 |
+| [Windows 11 Enterprise and Education (versiunea 21H2)](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise (versiunea 21H2)](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 8 octombrie 2024 |
+| [Windows 11 Home and Pro, Versiunea 22H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | luni, 14 octombrie 2024 |
 | [PowerShell, PowerShell 7.2 (LTS-current)](/lifecycle/products/powershell?branch=live)<br> | vineri, 8 noiembrie 2024 |
 | [Azure IoT Edge, versiunea 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | marţi, 12 noiembrie 2024 |
 
